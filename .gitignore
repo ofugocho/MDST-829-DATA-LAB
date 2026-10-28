@@ -1,0 +1,23 @@
+# Python environment and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Created by code - can always be re-created from data/raw + the notebooks
+data/processed/*
+!data/processed/.gitkeep
+models/*
+!models/.gitkeep
+
+# Confidential data: list files you must NEVER push here, e.g.
+# data/raw/interview_transcripts.csv
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Editor / OS clutter
+.DS_Store
+Thumbs.db

@@ -1,0 +1,651 @@
+farm_id,survey_year,lga,farmer_age,gender,education_level,years_farming,farm_size_ha,improved_seed,fertilizer_kg_per_ha,irrigation,rainfall_mm,avg_temp_c,soil_ph,extension_visits,pest_incidence,cooperative_member,harvest_sales_naira,yield_kg_per_ha
+NSW-0185,2023,karu,59.0,Male,Primary,39.0,2.06,Yes,155.1,No,1381.0,29.5,6.5,1.0,Absent,No,2924800.0,3361.0
+NSW-0523,2024,Toto,36.0,Female,Primary,15.0,3.96,No,118.8,N,1408.8,27.2,6.71,2.0,Absent,yes,3979500.0,2410.0
+NSW-0104,2022,Keana,49.0,Male,Secondary,23.0,1.84,No,217.4,No,1306.2,25.7,6.51,2.0,Moderate,Yes,2176400.0,2560.0
+NSW-0243,2024,Wamba,36.0,Male,Secondary,7.0,0.88,No,148.3,Yes,1018.8,26.5,6.94,3.0,Absent,No,1139300.0,3129.0
+NSW-0161,2022,Wamba,36.0,Male,Primary,6.0,0.83,Yes,168.7,yes,1351.0,26.9,5.82,1.0,Low,No,1036700.0,3108.0
+NSW-0063,2024,wamba,53.0,Male,Secondary,34.0,0.69,Yes,106.0,No,1494.3,26.5,6.92,0.0,Low,No,511700.0,1863.0
+NSW-0359,2024,Toto,43.0,Male,Primary,16.0,1.91,No,215.5,Yes,980.6,26.1,6.23,5.0,Low,Yes,2043100.0,2794.0
+NSW-0345,2022,Keffi,49.0,Male,Primary,30.0,1.84,Yes,97.6,No,,28.0,6.34,1.0,Low,No,1741800.0,2045.0
+NSW-0093,2022,kokona ,62.0,Male,No formal education,33.0,2.03,No,147.0,No,1039.9,28.1,6.09,4.0,Low,Yes,2264700.0,2863.0
+NSW-0219,2023,Wamba,,Male,Tertiary,26.0,1.91,No,52.8,No,1298.1,25.8,6.33,0.0,Absent,No,1593300.0,2064.0
+NSW-0443,2022,Nasarawa,37.0,Male,Tertiary,14.0,1.38,Yes,not recorded,No,1293.5,26.7,6.46,0.0,Low,No,1489900.0,2575.0
+NSW-0287,2024,Akwanga,42.0,Male,No formal education,15.0,2.86,Yes,106.2,No,1262.6,27.1,,1.0,Absent,Yes,3568400.0,
+NSW-0178,2022,Lafia,29.0,Male,Secondary,9.0,1.35,NO,59.9,No,1424.1,26.9,5.75,1.0,Low,No,1138000.0,1929.0
+NSW-0406,2022,Doma,30.0,Female,Secondary,11.0,2.34,No,107.7,No,1135.1,27.1,6.26,0.0,Absent,No,2211100.0,2052.0
+NSW-0453,2024,Kokona,49.0,Female,No formal education,20.0,2.24,NO,30.1,no,1691.5,27.6,6.44,0.0,Moderate,No,207500.0,250.0
+NSW-0198,2023,Karu ,49.0,Female,Secondary,20.0,1.32,No,141.7,No,1414.5,26.7,6.02,0.0,Absent,No,1437200.0,2435.0
+NSW-0142,2022,Lafia,36.0,Female,Primary,6.0,1.45,Yes,107.6,N,1060.7,29.5,5.52,3.0,Moderate,Yes,1157700.0,1806.0
+NSW-0045,2022,Karu,32.0,Female,Secondary,3.0,1.75,No,125.4,No,1042.0,29.3,6.49,3.0,Low,Yes,2157600.0,2481.0
+NSW-0024,2023,toto,36.0,Female,,8.0,1.24,No,123.1,No,1376.3,25.8,6.56,6.0,Low,Yes,730100.0,1556.0
+NSW-0145,2024,doma,36.0,Female,Tertiary,8.0,2.3,NO,72.6,Yes,1392.7,27.6,5.46,3.0,Moderate,Yes,1126500.0,1111.0
+NSW-0165,2023,Akwanga,49.0,Male,Primary,19.0,1.0,Yes,91.4,No,1368.0,27.6,5.22,,Moderate,N,638800.0,2038.0
+NSW-0259,2024,Keana,44.0,Female,No formal education,12.0,2.72,No,74.1,No,899.7,27.2,,0.0,Moderate,No,653100.0,639.0
+NSW-0508,2022,Toto,53.0,Male,Primary,22.0,3.48,Yes,223.9,No,1140.2,28.0,6.25,2.0,Absent,No,4858200.0,3484.0
+NSW-0322,2022,Lafia,41.0,Male,Primary,13.0,1.02,No,89.0,No,1375.0,27.7,5.68,1.0,Absent,No,609500.0,1336.0
+NSW-0007,2024,Awe,41.0,Female,Tertiary,9.0,1.31,no,126.4,no,1008.7,27.3,5.93,3.0,Absent,Yes,1416200.0,2641.0
+NSW-0490,2022,Awe,50.0,Male,Secondary,29.0,3.03,No,198.5,Yes,1188.7,27.2,5.88,0.0,Absent,No,4483500.0,3225.0
+NSW-0504,2022,Doma,18.0,Male,Primary,1.0,3.16,Yes,148.5,No,1211.1,26.7,6.1,1.0,Absent,Y,4368100.0,3171.0
+NSW-0040,2024,Doma,53.0,Female,No formal education,25.0,1.54,No,182.4,No,1280.3,26.3,6.33,2.0,Low,No,1649500.0,2760.0
+NSW-0115,2024,Wamba,76.0,Male,Tertiary,46.0,1.79,Yes,23.5,N,,28.6,6.58,0.0,Moderate,No,1178700.0,1428.0
+NSW-0252,2024,Awe,57.0,Male,No formal education,37.0,1.45,No,not recorded,No,1035.2,27.0,6.12,4.0,Low,Y,1855800.0,2823.0
+NSW-0549,2024,Awe,45.0,Male,Primary,13.0,3.58,No,114.1,No,1083.0,27.6,5.84,2.0,Low,No,3529900.0,2722.0
+NSW-0112,2024,Nasarawa,44.0,Female,Secondary,18.0,1.37,No,147.2,Yes,1259.2,26.5,5.76,0.0,Absent,Y,1821700.0,2910.0
+NSW-0407,2024,Toto,52.0,Female,Secondary,25.0,2.33,No,156.9,No,1585.1,28.4,6.25,0.0,Low,Yes,1718800.0,1795.0
+NSW-0077,2023,Keffi,19.0,Female,Secondary,1.0,2.55,Yes,116.0,No,1078.7,27.2,,1.0,Low,No,2503600.0,2816.0
+NSW-0555,2022,Lafia,33.0,Male,Secondary,13.0,1.47,no,233.9,No,939.2,26.1,5.77,3.0,Absent,Yes,1592500.0,2754.0
+NSW-0421,2022,Keana,51.0,Male,Primary,29.0,3.8,Yes,86.4,No,1420.6,28.3,5.86,0.0,Absent,No,4336200.0,2572.0
+NSW-0144,2023,Keffi,41.0,Male,No formal education,13.0,2.79,No,105.9,Yes,1475.4,25.8,6.07,,High,No,1976400.0,1408.0
+NSW-0384,2023,Lafia,42.0,Female,Secondary,18.0,1.99,Yes,133.4,No,1084.7,27.7,6.18,1.0,Absent,No,2325800.0,2658.0
+NSW-0570,2024,Toto,65.0,Male,Primary,37.0,1.41,Yes,92.4,No,1620.8,28.6,5.56,2.0,Low,No,1027400.0,
+NSW-0101,2024,Keffi,38.0,Male,Tertiary,20.0,3.31,Yes,102.6,No,1113.1,27.8,,1.0,Moderate,No,2571000.0,1811.0
+NSW-0603,2022,Kokona,53.0,Male,Tertiary,25.0,2.1,Yes,131.4,No,751.5,27.2,6.74,0.0,Absent,No,2448300.0,2447.0
+NSW-0390,2022,Nasarawa,38.0,Male,Primary,15.0,1.87,Yes,234.5,No,924.1,28.2,5.87,0.0,High,No,1521000.0,1989.0
+NSW-0381,2023,Lafia,54.0,Male,Primary,28.0,1.31,Yes,103.8,Yes,939.8,28.2,6.78,5.0,High,Yes,1154700.0,1947.0
+NSW-0500,2023,Karu,27.0,Female,Tertiary,1.0,1.14,No,188.4,No,1315.5,26.2,6.15,2.0,High,No,1160800.0,2807.0
+NSW-0204,2023,Awe,56.0,Male,Primary,33.0,1.11,NO,69.5,No,1343.3,28.8,5.06,0.0,Moderate,No,310600.0,731.0
+NSW-0285,2022,Awe,58.0,Male,Secondary,31.0,1.83,Yes,231.9,Yes,1340.3,26.2,6.19,0.0,Absent,N,3660500.0,4300.0
+NSW-0205,2023,Obi,40.0,Male,Primary,19.0,1.31,Yes,178.6,No,1222.9,25.8,,3.0,Absent,Yes,1717200.0,3309.0
+NSW-0400,2023,keana,34.0,Male,Primary,11.0,0.73,No,104.9,No,,29.0,6.73,1.0,Absent,Yes,470300.0,1628.0
+NSW-0244,2022,Toto,30.0,Male,Primary,5.0,2.2,Yes,141.8,Yes,1041.9,27.5,6.84,3.0,Low,Yes,2746300.0,
+NSW-0596,2024,Awe,24.0,Male,Primary,1.0,1.68,Yes,109.0,Yes,1357.6,26.7,6.42,2.0,Moderate,Yes,2320700.0,2918.0
+NSW-0125,2023,Nasarawa Eggon,23.0,Male,No formal education,1.0,1.81,Yes,190.9,N,1309.7,27.0,6.37,1.0,Absent,Yes,2433400.0,3166.0
+NSW-0428,2023,Keffi,50.0,Male,No formal education,29.0,1.02,Yes,256.0,No,1160.3,27.6,6.1,1.0,Absent,Yes,1497900.0,3559.0
+NSW-0254,2022,Nasarawa,56.0,Female,No formal education,32.0,1.27,Yes,200.6,No,,26.8,6.55,,Moderate,Yes,1467500.0,3042.0
+NSW-0416,2023,Doma,44.0,Male,Secondary,25.0,1.87,No,40.3,No,1320.9,27.5,6.63,1.0,High,No,939000.0,1152.0
+NSW-0193,2023,Akwanga,22.0,Male,Secondary,1.0,3.19,Yes,94.1,No,1106.2,27.0,5.35,5.0,Low,Yes,3744600.0,2970.0
+NSW-0135,2024,Karu,44.0,Male,Secondary,14.0,2.47,NO,117.6,No,1158.7,25.5,7.26,4.0,Low,No,2561600.0,2587.0
+NSW-0160,2023,Karu,57.0,Male,Secondary,39.0,1.24,Yes,89.2,No,1044.7,26.2,5.2,1.0,Absent,Yes,1128400.0,2330.0
+NSW-0208,2022,Keffi,61.0,Male,No formal education,41.0,2.62,Yes,222.8,No,1006.8,27.6,5.5,0.0,Low,No,2351900.0,2037.0
+NSW-0017,2024,Toto,48.0,Male,Tertiary,25.0,1.19,No,119.0,Yes,1186.0,26.3,6.82,1.0,Low,No,1331100.0,2814.0
+NSW-0231,2023,Keana,46.0,Male,Primary,19.0,3.0,No,35.4,No,1250.5,28.5,5.44,2.0,Absent,No,1957900.0,1485.0
+NSW-0206,2023,Nasarawa,53.0,Female,Primary,31.0,1.51,Yes,140.7,N,,28.4,6.41,2.0,Low,Yes,1262000.0,2466.0
+NSW-0052,2024,Keana,36.0,Male,,9.0,2.37,Yes,25.1,No,1161.4,28.0,7.12,2.0,Absent,No,2115500.0,1952.0
+NSW-0264,2022,Nasarawa-Eggon,44.0,Male,Secondary,13.0,3.15,Yes,127.2,no,1245.8,26.9,5.88,1.0,Moderate,No,3109600.0,2464.0
+NSW-0262,2022,Wamba,40.0,Male,Primary,22.0,2.04,Yes,121.5,No,1319.1,27.3,6.48,2.0,Moderate,Yes,1628400.0,1901.0
+NSW-0586,2024,Toto,58.0,Male,No formal education,35.0,3.33,Yes,76.5,No,1382.3,26.7,6.48,2.0,Moderate,No,3250100.0,2297.0
+NSW-0280,2024,Nasarawa,39.0,Male,Secondary,9.0,2.8,Yes,82.1,N,1058.1,27.1,6.08,0.0,Moderate,No,2196500.0,2114.0
+NSW-0119,2022,Akwanga,47.0,Male,Tertiary,21.0,1.27,Y,49.7,No,1418.7,26.9,5.04,1.0,Low,No,945800.0,1566.0
+NSW-0531,2022,Obi,57.0,Male,Primary,26.0,1.97,no,182.8,No,1275.1,27.4,6.45,3.0,Absent,Yes,2159100.0,2499.0
+NSW-0187,2022,karu,51.0,Male,Primary,31.0,1.23,No,142.5,No,1053.7,27.6,5.11,,High,No,558700.0,1111.0
+NSW-0619,2022,Akwanga,43.0,Female,Primary,21.0,2.32,No,33.8,No,1198.0,28.2,5.71,0.0,Low,No,1062500.0,1328.0
+NSW-0084,2024,Keana,45.0,Male,Tertiary,27.0,3.17,No,207.3,No,1254.2,26.6,5.3,1.0,Moderate,No,2730200.0,1961.0
+NSW-0358,2022,Obi,37.0,Male,Primary,10.0,1.78,no,135.3,No,1176.6,28.9,5.67,1.0,Absent,No,1870800.0,2748.0
+NSW-0422,2024,Doma,55.0,Male,Primary,31.0,2.84,No,152.4,No,1248.2,29.7,4.88,2.0,High,Yes,1601500.0,1138.0
+NSW-0174,2022,Kokona,35.0,Male,Primary,17.0,1.4,No,146.4,No,1009.2,28.0,6.16,1.0,Low,Yes,1189500.0,2131.0
+NSW-0347,2024,Nasarawa,32.0,Female,Tertiary,9.0,2.08,No,218.3,No,1410.6,29.0,6.78,0.0,Low,No,1920900.0,2585.0
+NSW-0364,2024,Nasarawa Eggon,54.0,Female,Secondary,24.0,3.35,No,148.1,No,1378.5,26.1,5.53,0.0,Moderate,Yes,3045800.0,2157.0
+NSW-0448,2024,kokona,33.0,Female,No formal education,15.0,2.82,No,98.6,Yes,1119.7,28.8,4.8,1.0,Absent,No,1522300.0,1270.0
+NSW-0058,2023,Keffi,41.0,Male,Tertiary,9.0,4.54,No,75.5,no,1222.0,27.5,7.05,1.0,Absent,No,3681700.0,1722.0
+NSW-0550,2022,Keffi,42.0,Male,Primary,19.0,1.79,Yes,50.7,No,1104.6,26.8,5.69,2.0,Absent,No,1266000.0,1784.0
+NSW-0188,2024,Obi,31.0,Male,Primary,13.0,3.02,No,21.6,No,1443.3,29.1,6.31,2.0,Low,No,1637000.0,1243.0
+NSW-0449,2024,Toto,63.0,Male,Primary,35.0,3.83,No,41.6,No,1351.0,28.0,5.85,0.0,Absent,No,4134900.0,2290.0
+NSW-0617,2024,Toto,40.0,Male,No formal education,10.0,1.54,No,230.6,no,1080.5,27.9,6.52,2.0,Low,Y,1732200.0,2832.0
+NSW-0534,2024,Kokona,28.0,Male,Secondary,5.0,2.13,Yes,157.9,No,1191.1,26.6,6.37,3.0,Low,Yes,3733500.0,3862.0
+NSW-0397,2023,Toto,56.0,Male,Primary,33.0,0.72,No,246.3,No,892.3,27.6,5.76,0.0,Moderate,N,772100.0,2080.0
+NSW-0575,2024,Karu,55.0,Male,Secondary,27.0,2.29,No,75.2,No,1026.0,25.4,6.38,1.0,Low,No,1770200.0,1926.0
+NSW-0440,2022,Doma,60.0,Female,No formal education,28.0,2.38,Yes,107.5,No,914.6,27.0,6.41,2.0,Low,Yes,2175000.0,2293.0
+NSW-0127,2023,Karu,48.0,Male,No formal education,26.0,1.97,NO,114.8,No,1420.8,26.6,6.15,1.0,Absent,No,2061500.0,2517.0
+NSW-0401,2024,Toto,45.0,Male,Primary,22.0,0.87,Yes,219.5,No,1005.3,26.3,6.34,3.0,Absent,Y,1476900.0,4068.0
+NSW-0266,2023,Nasarawa-Eggon,52.0,Female,Secondary,31.0,1.57,NO,136.9,No,1311.5,27.8,,1.0,Absent,No,1287500.0,1983.0
+NSW-0444,2023,Kokona,58.0,Female,Primary,32.0,1.26,No,114.9,No,1251.3,26.8,,0.0,Low,no,1091100.0,2007.0
+NSW-0429,2023,Nasarawa Eggon ,18.0,Female,Primary,1.0,1.87,No,106.9,Yes,1074.6,28.4,5.48,0.0,Low,No,2010200.0,2321.0
+NSW-0290,2023,Wamba,40.0,Female,Secondary,22.0,3.46,No,118.0,No,909.5,26.4,5.6,3.0,Low,Yes,2568100.0,1968.0
+NSW-0236,2023,Lafia,42.0,Male,Secondary,16.0,1.8,No,39.5,Yes,1592.4,27.6,6.24,0.0,Moderate,No,997700.0,1222.0
+NSW-0030,2024,Kokona,39.0,Female,Primary,19.0,0.75,Yes,59.1,No,1370.9,28.2,5.28,4.0,Moderate,No,347900.0,1136.0
+NSW-0356,2023,Doma,57.0,Male,Primary,38.0,0.69,Yes,134.3,No,1260.7,25.0,6.05,1.0,Low,NO,806100.0,2857.0
+NSW-0062,2022,Doma,41.0,Male,Primary,11.0,0.86,Yes,64.9,No,1116.9,27.9,6.3,2.0,Low,No,971300.0,3140.0
+NSW-0604,2023,Keana,40.0,Female,No formal education,16.0,2.59,Yes,233.1,No,1242.1,28.2,6.58,1.0,Absent,Yes,3411300.0,3161.0
+NSW-0541,2022,Awe,35.0,Male,No formal education,10.0,1.1,Yes,127.0,No,1340.0,25.1,6.84,3.0,Low,Yes,1187300.0,2658.0
+NSW-0608,2022,Kokona,70.0,Female,Primary,43.0,1.61,No,115.2,Yes,1336.9,28.2,6.4,3.0,Low,Yes,1447800.0,2351.0
+NSW-0387,2024,Nasarawa Eggon,38.0,Male,Secondary,20.0,2.42,No,88.1,No,813.1,28.4,6.38,1.0,Absent,Yes,1870600.0,1930.0
+NSW-0093,2022,kokona ,62.0,Male,No formal education,33.0,2.03,No,147.0,No,1039.9,28.1,6.09,4.0,Low,Yes,2264700.0,2863.0
+NSW-0547,2024,Obi,56.0,Female,Secondary,30.0,1.93,No,99.0,No,1129.8,26.7,6.91,1.0,High,Yes,1104400.0,1389.0
+NSW-0003,2023,Akwanga,44.0,Male,Primary,14.0,3.1,Yes,174.7,No,,28.2,6.44,5.0,Moderate,Yes,3656800.0,2702.0
+NSW-0636,2024,Kokona,41.0,Male,No formal education,10.0,0.86,No,78.0,No,1245.8,26.2,,0.0,Absent,No,585000.0,1726.0
+NSW-0441,2023,Awe,40.0,Male,Tertiary,15.0,3.91,Yes,144.9,No,1150.8,27.5,6.09,3.0,Absent,no,5735900.0,3359.0
+NSW-0473,2024,Kokona,42.0,Female,Primary,22.0,2.35,N,242.6,No,1223.4,27.2,6.3,1.0,High,No,2175300.0,2531.0
+NSW-0231,2023,Keana,46.0,Male,Primary,19.0,3.0,No,35.4,No,1250.5,28.5,5.44,2.0,Absent,No,1957900.0,1485.0
+NSW-0367,2022,Awe ,47.0,Male,Secondary,19.0,1.61,Yes,not recorded,No,1101.4,26.0,,1.0,Low,No,2309700.0,3060.0
+NSW-0248,2023,Keana,22.0,Female,,1.0,134.0,Yes,150.1,N,1016.4,26.1,5.19,1.0,Moderate,Yes,1554100.0,2672.0
+NSW-0430,2022,Akwanga,53.0,Female,Tertiary,25.0,2.09,No,56.2,No,1213.6,26.5,5.91,0.0,Low,No,1968900.0,2233.0
+NSW-0484,2023,Wamba,39.0,Female,Tertiary,19.0,2.23,Yes,67.5,No,1026.4,27.1,5.75,4.0,Low,Yes,2785700.0,3050.0
+NSW-0079,2023,Akwanga,59.0,Male,Secondary,36.0,1.9,No,103.7,No,920.1,26.1,5.74,2.0,Low,No,1778300.0,2035.0
+NSW-0237,2022,Keffi,22.0,Female,Tertiary,1.0,0.94,N,184.5,Y,1279.7,25.2,5.13,2.0,Low,No,734500.0,1869.0
+NSW-0233,2024,Keffi,54.0,Male,Secondary,33.0,1.2,Yes,70.1,Yes,1467.5,27.1,5.35,4.0,Low,No,996600.0,2041.0
+NSW-0284,2024,Keffi,38.0,Male,Tertiary,12.0,3.26,Yes,57.4,Yes,1002.5,26.2,6.44,4.0,Moderate,no,2556300.0,2065.0
+NSW-0019,2024,Awe,31.0,Male,Primary,6.0,3.52,no,63.0,Yes,1165.7,27.6,5.18,0.0,Moderate,No,2989400.0,1994.0
+NSW-0357,2022,Karu,26.0,Male,Primary,8.0,2.04,Yes,49.0,No,1269.4,28.4,6.26,0.0,Absent,No,2859400.0,2784.0
+NSW-0305,2022,Akwanga,50.0,Male,Secondary,18.0,2.43,Yes,158.8,No,1181.7,28.3,6.04,5.0,Absent,Yes,4907900.0,4627.0
+NSW-0639,2023,Awe,42.0,Male,Secondary,22.0,1.32,No,121.9,No,1185.5,26.0,6.14,4.0,Low,Yes,1483100.0,2545.0
+NSW-0281,2023,Lafia,30.0,Male,Primary,12.0,2.91,No,92.1,No,984.1,26.5,,2.0,Low,No,1942800.0,1677.0
+NSW-0615,2024,lafia,20.0,Male,Primary,1.0,1.39,No,not recorded,No,1091.4,28.2,5.79,3.0,Moderate,Yes,767300.0,1475.0
+NSW-0122,2023,kokona,44.0,Male,Secondary,21.0,2.68,Yes,109.3,No,903.8,29.5,6.3,1.0,Absent,No,2420300.0,2257.0
+NSW-0261,2023,Doma,29.0,Male,Tertiary,11.0,5.24,No,not recorded,No,1373.3,28.6,,1.0,Moderate,No,3276900.0,1633.0
+NSW-0032,2024,Obi,52.0,Male,Primary,20.0,2.33,No,69.4,No,939.9,27.0,5.62,1.0,Moderate,No,1209800.0,1300.0
+NSW-0060,2024,Karu,53.0,Male,Tertiary,29.0,1.1,Yes,149.7,Yes,1285.0,26.5,5.21,1.0,Absent,No,1489300.0,
+NSW-0506,2023,Awe,41.0,Male,Primary,16.0,1.21,Yes,141.7,No,1491.0,28.8,6.63,0.0,Moderate,No,1336600.0,2603.0
+NSW-0533,2024,Obi,47.0,Male,No formal education,20.0,0.54,No,52.2,No,1041.6,26.2,7.21,,Low,No,231400.0,915.0
+NSW-0502,2022,Wamba,49.0,Male,Tertiary,19.0,4.59,No,240.7,Yes,1087.1,26.3,5.55,2.0,Low,Yes,5228700.0,2567.0
+NSW-0226,2023,Nasarawa,38.0,Female,Primary,7.0,0.85,No,148.9,Yes,1109.8,26.9,6.79,0.0,Moderate,No,1026000.0,2520.0
+NSW-0022,2024,Wamba,50.0,Male,Tertiary,31.0,1.17,Yes,149.2,No,1288.6,27.4,6.32,2.0,Absent,No,1517800.0,3618.0
+NSW-0255,2022,Karu,55.0,Male,Secondary,37.0,2.45,No,127.3,No,819.9,26.3,5.08,4.0,Absent,Yes,2775300.0,2543.0
+NSW-0587,2023,Karu,22.0,Female,Primary,1.0,2.0,Yes,38.9,No,1041.8,25.1,6.22,2.0,Absent,No,2750200.0,2899.0
+NSW-0201,2022,N/Eggon,37.0,Male,Tertiary,15.0,1.58,Yes,162.9,No,1166.3,26.3,6.59,2.0,Low,Yes,1970600.0,3021.0
+NSW-0328,2023,Obi,33.0,Female,Primary,5.0,2.88,Yes,127.5,Yes,1335.2,28.1,6.69,3.0,Moderate,Yes,3340300.0,2819.0
+NSW-0207,2024,Awe,39.0,Female,Primary,10.0,2.96,No,178.8,No,1225.0,26.6,6.33,1.0,High,Yes,4125200.0,3213.0
+NSW-0382,2024,Doma,,Female,Primary,27.0,0.99,No,95.3,No,1322.4,27.8,,0.0,Moderate,No,821000.0,2072.0
+NSW-0024,2023,toto,36.0,Female,,8.0,1.24,No,123.1,No,1376.3,25.8,6.56,6.0,Low,Yes,730100.0,1556.0
+NSW-0576,2024,Wamba,56.0,Female,Secondary,38.0,2.64,No,115.1,No,1030.0,29.1,5.68,2.0,Low,No,2197300.0,1673.0
+NSW-0459,2022,Keana,38.0,Male,Tertiary,7.0,2.02,No,159.1,Yes,1321.3,26.2,5.37,1.0,Moderate,No,1869100.0,2025.0
+NSW-0154,2024,Doma,28.0,Male,Secondary,9.0,1.76,no,139.0,No,1488.6,27.8,5.76,0.0,Low,No,1414800.0,1888.0
+NSW-0631,2022,Doma,42.0,Male,No formal education,17.0,1.91,No,not recorded,NO,,28.2,6.19,2.0,Moderate,No,1357800.0,1674.0
+NSW-0085,2023,Awe,33.0,Male,Secondary,12.0,2.14,Yes,48.9,No,995.7,26.8,6.34,2.0,High,No,1101400.0,1469.0
+NSW-0526,2022,Keffi,41.0,Male,Primary,14.0,0.92,Yes,27.5,No,1339.1,26.0,,4.0,High,N,387300.0,907.0
+NSW-0149,2024,Wamba,22.0,Male,No formal education,1.0,0.82,No,134.9,No,1126.6,27.7,6.43,1.0,Absent,Yes,875500.0,2762.0
+NSW-0166,2024,Kokona,27.0,Male,Tertiary,1.0,1.61,Yes,113.2,No,1061.0,27.4,6.29,2.0,Moderate,No,1773600.0,2321.0
+NSW-0434,2024,Karu,32.0,Male,No formal education,3.0,1.31,no,not recorded,Yes,1236.0,28.5,6.53,0.0,Low,NO,1440200.0,2546.0
+NSW-0072,2023,Wamba,36.0,Female,Tertiary,9.0,0.89,No,91.8,no,999.7,27.0,6.14,5.0,Absent,Yes,1012500.0,2740.0
+NSW-0374,2022,Nasarawa Eggon,,Male,Primary,38.0,4.52,No,107.1,Yes,925.6,28.9,5.75,0.0,Absent,No,5085900.0,2358.0
+NSW-0574,2023,Nasarawa Eggon,59.0,Female,No formal education,37.0,1.34,No,128.2,Yes,1019.6,27.1,6.22,1.0,Low,No,1390000.0,2459.0
+NSW-0116,2023,Keffi,59.0,Female,Secondary,28.0,3.35,No,172.1,No,1300.2,28.3,7.25,3.0,Moderate,Yes,2529700.0,1682.0
+NSW-0333,2022,Lafia,41.0,Male,No formal education,12.0,1.0,Yes,103.7,No,1209.9,28.0,6.56,1.0,Absent,No,994200.0,2287.0
+NSW-0330,2022,Keana,37.0,Male,Primary,18.0,0.77,No,185.2,No,,25.9,6.42,1.0,Low,No,870500.0,2647.0
+NSW-0632,2022,Doma,39.0,Male,Primary,16.0,0.74,No,175.5,NO,948.8,27.2,5.55,2.0,Moderate,N,395300.0,1506.0
+NSW-0595,2024,Karu,56.0,Female,Secondary,34.0,1.24,Yes,not recorded,No,1051.3,28.6,5.66,0.0,Low,N,1412600.0,2657.0
+NSW-0009,2023,Nasarawa,37.0,Female,Tertiary,8.0,0.9,yes,85.9,Yes,1226.7,26.3,7.16,2.0,Low,No,954200.0,2852.0
+NSW-0565,2024,Keffi,35.0,Male,No formal education,11.0,4.61,Yes,176.2,No,1508.1,26.0,6.21,0.0,Low,No,3626500.0,1880.0
+NSW-0349,2024,Akwanga,55.0,Male,Primary,27.0,1.9,No,134.6,No,860.7,28.3,,0.0,Absent,No,2402600.0,2684.0
+NSW-0087,2024,awe,31.0,Male,Secondary,1.0,1.17,No,328.3,No,1216.7,27.6,6.84,0.0,High,Yes,1058500.0,2091.0
+NSW-0051,2023,wamba,36.0,Female,Secondary,13.0,1.27,Yes,55.4,No,1281.9,26.5,5.5,1.0,Absent,N,1069700.0,2089.0
+NSW-0306,2023,Lafia,51.0,Male,Primary,31.0,2.33,no,91.6,No,1223.4,27.4,5.65,3.0,Low,Yes,1312000.0,1350.0
+NSW-0134,2023,Akwanga,44.0,Male,Secondary,16.0,2.36,No,122.8,Yes,1158.1,26.9,,3.0,Low,Yes,3395400.0,3325.0
+NSW-0221,2023,Akwanga,46.0,Female,Tertiary,28.0,1.27,Yes,143.6,No,1181.3,26.3,5.83,2.0,Low,No,1680000.0,3049.0
+NSW-0378,2022,Nasarawa,43.0,Male,Primary,21.0,1.61,No,47.5,No,1361.1,26.4,5.69,1.0,High,No,516800.0,799.0
+NSW-0324,2023,Keffi,51.0,Female,Primary,23.0,2.72,Yes,47.3,Yes,1036.0,27.2,7.41,2.0,Low,No,1717900.0,1666.0
+NSW-0155,2024,Awe,44.0,Male,No formal education,25.0,2.18,No,126.3,No,1192.2,27.9,5.31,4.0,Low,Yes,1961100.0,2336.0
+NSW-0507,2023,Akwanga,23.0,Male,Tertiary,1.0,1.46,Yes,102.4,Yes,1467.5,28.2,6.24,3.0,Moderate,Yes,1266500.0,2031.0
+NSW-0043,2024,Awe,46.0,Male,Primary,26.0,0.96,Yes,148.1,no,1182.1,26.2,5.49,1.0,Moderate,Yes,1519800.0,3260.0
+NSW-0131,2023,Keffi,45.0,Male,No formal education,20.0,1.16,Yes,104.5,No,1344.4,29.4,5.51,4.0,Low,No,945600.0,1825.0
+NSW-0461,2023,Nasarawa,53.0,Female,No formal education,27.0,2.99,No,49.8,N,1187.3,26.3,,1.0,Moderate,NO,1371600.0,1067.0
+NSW-0600,2023,N/Eggon,41.0,Male,Primary,18.0,0.47,Yes,151.2,No,1208.1,27.7,4.84,0.0,Absent,No,370500.0,1937.0
+NSW-0487,2023,Karu,44.0,Male,Secondary,17.0,0.98,Yes,181.6,No,1265.4,26.8,5.67,0.0,Moderate,Yes,1279000.0,3247.0
+NSW-0485,2023,Toto,39.0,Male,Secondary,18.0,2.05,Yes,183.7,Yes,1355.8,26.8,6.39,3.0,Low,Yes,3413200.0,3919.0
+NSW-0073,2024,Obi,150.0,Male,Primary,19.0,0.46,Yes,85.9,No,1350.3,28.0,6.54,3.0,Low,N,407200.0,2224.0
+NSW-0002,2023,Doma,33.0,Female,Secondary,2.0,1.65,Yes,158.9,No,1233.9,27.7,5.62,3.0,Absent,yes,2010500.0,3164.0
+NSW-0037,2024,Doma,58.0,Male,No formal education,33.0,3.69,No,119.8,No,1023.2,28.0,,1.0,Moderate,Yes,2373700.0,1669.0
+NSW-0561,2023,Keffi,,Female,Secondary,38.0,2.06,Yes,105.4,No,1094.5,28.4,5.27,,Moderate,Yes,2455200.0,3005.0
+NSW-0176,2023,Lafia,49.0,Male,No formal education,28.0,1.22,No,99.6,No,909.9,26.3,5.6,1.0,Moderate,No,521900.0,1010.0
+NSW-0424,2023,lafia,59.0,Female,Primary,27.0,1.22,Yes,97.7,No,1220.7,27.7,6.26,5.0,Low,Yes,1385800.0,2793.0
+NSW-0544,2023,Wamba,29.0,Male,No formal education,7.0,1.9,No,190.9,NO,1012.3,28.1,6.21,1.0,Moderate,Yes,1934500.0,2128.0
+NSW-0539,2022,Akwanga,37.0,Male,Secondary,11.0,1.28,No,155.0,NO,1428.2,27.7,5.7,3.0,Moderate,Yes,1153700.0,2393.0
+NSW-0492,2024,Akwanga,36.0,Female,Tertiary,11.0,2.56,yes,279.4,No,1135.7,26.1,6.68,2.0,Moderate,Yes,2803700.0,2728.0
+NSW-0380,2024,Keana,49.0,Female,Primary,29.0,7.44,No,117.2,No,931.2,27.7,6.4,,Absent,No,7007100.0,2431.0
+NSW-0081,2024,Keffi,52.0,Male,Secondary,25.0,1.69,Yes,179.0,No,1271.3,28.7,5.99,5.0,Moderate,Yes,1949500.0,2470.0
+NSW-0222,2024,Nasarawa,38.0,Male,Secondary,9.0,3.47,Y,61.9,No,892.1,26.7,6.78,1.0,Moderate,No,2325400.0,1669.0
+NSW-0269,2022,Akwanga,29.0,Male,Primary,1.0,1.9,Yes,99.5,No,1134.1,26.1,6.64,3.0,Absent,Yes,2309500.0,3076.0
+NSW-0425,2024,Karu,32.0,Male,Secondary,1.0,0.91,No,66.6,No,1088.2,29.0,6.16,0.0,Absent,No,619800.0,1778.0
+NSW-0056,2022,Lafia,34.0,Male,Primary,6.0,2.07,NO,153.0,No,971.7,27.2,6.1,2.0,Low,Yes,1918700.0,2095.0
+NSW-0525,2024,Karu,45.0,Female,Primary,20.0,1.64,No,173.8,No,1199.8,26.8,5.75,6.0,Low,Yes,2394600.0,3164.0
+NSW-0015,2024,Nasarawa Eggon ,,Male,Secondary,32.0,1.16,No,75.2,NO,1376.7,26.4,6.02,1.0,Moderate,No,762900.0,1558.0
+NSW-0200,2022,Lafia,50.0,Male,No formal education,18.0,4.4,No,101.7,No,1050.0,27.5,6.53,1.0,Moderate,Yes,2468100.0,1413.0
+NSW-0467,2023,Lafia,36.0,Male,Tertiary,15.0,1.23,No,88.1,Yes,1564.4,25.1,5.23,0.0,Low,No,538900.0,1183.0
+NSW-0195,2023,Obi,53.0,Female,No formal education,26.0,3.51,YES,186.9,No,1312.9,27.8,6.01,3.0,Low,No,4038300.0,2940.0
+NSW-0057,2022,Keana,38.0,Female,No formal education,8.0,2.53,Yes,186.3,NO,,28.2,6.31,2.0,Low,Yes,2987800.0,2943.0
+NSW-0055,2022,Kokona,35.0,Female,Tertiary,17.0,3.89,Yes,179.2,No,1070.8,30.2,6.08,4.0,Moderate,Yes,3868900.0,2256.0
+NSW-0607,2023,Nasarawa Eggon,57.0,Female,No formal education,33.0,2.14,No,109.6,No,1309.1,26.9,6.73,1.0,Low,No,2119500.0,2614.0
+NSW-0496,2024,Akwanga,56.0,Male,Primary,32.0,2.64,No,110.2,No,1342.7,27.3,5.99,2.0,Low,NO,2725600.0,2343.0
+NSW-0212,2022,Akwanga,28.0,Male,Tertiary,1.0,2.82,No,88.2,No,974.5,28.7,5.66,0.0,Moderate,No,1575800.0,1419.0
+NSW-0100,2022,Lafia,57.0,Male,Primary,26.0,2.02,Yes,186.0,Yes,1209.0,26.0,5.81,2.0,Moderate,yes,2050700.0,2798.0
+NSW-0620,2024,Akwanga,35.0,Female,No formal education,5.0,3.45,NO,125.1,No,1428.3,28.3,5.87,1.0,Low,Yes,3193000.0,2117.0
+NSW-0621,2024,Keana,45.0,Male,Primary,19.0,1.23,Yes,not recorded,No,1121.4,27.1,6.04,0.0,High,No,1028700.0,2181.0
+NSW-0169,2023,Keana,52.0,Female,No formal education,22.0,1.15,Yes,201.6,No,1577.4,27.5,6.81,2.0,High,No,925900.0,1859.0
+NSW-0562,2024,Nasarawa Eggon,32.0,Female,No formal education,13.0,1.37,No,124.0,No,1196.5,27.7,6.53,2.0,Low,No,1307100.0,2434.0
+NSW-0038,2022,Karu,,Male,Primary,44.0,1.26,Yes,91.8,No,1083.3,25.9,5.51,1.0,Low,Yes,1256300.0,2435.0
+NSW-0031,2023,Nasarawa,41.0,Male,No formal education,22.0,4.18,Yes,177.3,Yes,1307.9,27.2,5.88,3.0,Absent,Yes,6525800.0,3512.0
+NSW-0215,2022,Lafia,43.0,Female,Secondary,15.0,3.58,Yes,274.0,No,1219.4,24.9,6.52,1.0,Low,YES,3924800.0,2903.0
+NSW-0006,2022,Kokona,,Male,No formal education,6.0,1.89,No,47.9,Yes,1109.3,27.6,6.37,1.0,Absent,No,1381800.0,1840.0
+NSW-0488,2024,Kokona,41.0,Male,Primary,18.0,0.96,No,120.5,No,1111.0,27.0,5.59,1.0,Low,Yes,745200.0,1903.0
+NSW-0256,2023,Obi,46.0,Male,Primary,21.0,3.3,Yes,238.3,Yes,1297.9,26.0,6.41,4.0,Absent,no,5544600.0,3753.0
+NSW-0493,2023,Awe,51.0,Male,Tertiary,31.0,0.95,NO,100.7,No,1333.1,27.5,4.77,1.0,Low,Yes,825900.0,1940.0
+NSW-0313,2024,Karu,37.0,Female,Primary,14.0,1.56,No,104.6,no,1299.6,28.1,6.39,2.0,Moderate,Yes,1616500.0,2255.0
+NSW-0301,2024,Akwanga,44.0,Male,Secondary,19.0,1.59,NO,54.8,No,1240.0,27.8,6.61,3.0,Low,Yes,1415300.0,2049.0
+NSW-0318,2024,Doma,58.0,Male,Tertiary,30.0,3.27,No,176.2,No,774.6,26.7,6.2,3.0,Moderate,Yes,3333100.0,2465.0
+NSW-0537,2024,Toto,63.0,Male,No formal education,36.0,1.7,Yes,56.6,No,1293.4,29.3,6.06,1.0,Low,No,1356400.0,2008.0
+NSW-0102,2023,Nassarawa,48.0,Female,No formal education,22.0,2.81,No,91.0,No,1356.8,24.8,6.83,2.0,Low,Yes,1656100.0,1255.0
+NSW-0120,2022,Obi,56.0,Male,No formal education,38.0,1.14,Yes,188.8,No,1408.5,27.4,6.32,2.0,Low,No,1764100.0,3069.0
+NSW-0042,2024,Kokona,31.0,Male,Primary,9.0,4.09,NO,123.0,No,1569.3,26.4,6.03,3.0,High,NO,1594700.0,962.0
+NSW-0004,2022,Nassarawa,7.0,Male,Secondary,24.0,2.74,No,94.0,No,775.2,25.9,6.1,2.0,Low,No,1744300.0,1519.0
+NSW-0291,2024,Karu,46.0,Female,No formal education,24.0,2.1,No,206.6,Yes,1179.7,27.0,6.12,1.0,High,No,2554500.0,
+NSW-0103,2022,Akwanga,50.0,Male,Primary,31.0,0.88,No,169.0,Yes,999.6,27.8,,1.0,Moderate,Yes,809800.0,2233.0
+NSW-0480,2023,Keffi,54.0,Male,Secondary,28.0,1.83,no,161.6,Yes,1184.8,26.9,5.96,0.0,Absent,No,2497300.0,3192.0
+NSW-0225,2024,Lafia,46.0,Male,Primary,24.0,0.8,No,154.1,no,1276.3,27.0,6.13,2.0,Absent,Yes,866300.0,2834.0
+NSW-0461,2023,Nasarawa,53.0,Female,No formal education,27.0,2.99,No,49.8,N,1187.3,26.3,,1.0,Moderate,NO,1371600.0,1067.0
+NSW-0110,2023,Kokona,49.0,Female,No formal education,25.0,0.67,YES,85.9,No,1307.7,25.8,5.74,3.0,Absent,Yes,896700.0,3272.0
+NSW-0114,2023,Lafia,,Female,Secondary,32.0,0.53,Yes,54.8,no,1083.8,26.2,6.79,3.0,High,N,352000.0,1538.0
+NSW-0247,2023,Obi,48.0,Female,Primary,24.0,2.54,Yes,42.9,No,954.2,28.6,5.01,0.0,Moderate,No,631600.0,639.0
+NSW-0409,2023,Kokona,35.0,Male,No formal education,15.0,2.68,Yes,202.7,No,984.6,28.7,6.14,3.0,Low,Yes,3024000.0,2944.0
+NSW-0456,2023,Wamba,33.0,Male,No formal education,2.0,3.84,No,145.1,No,995.8,27.9,6.97,0.0,High,No,1713100.0,1032.0
+NSW-0184,2023,Doma,50.0,Female,No formal education,24.0,1.46,Yes,156.9,No,1042.0,26.3,5.88,3.0,Moderate,Yes,1909800.0,3056.0
+NSW-0483,2022,Akwanga,47.0,Male,Tertiary,23.0,2.7,Yes,86.5,No,912.0,25.0,5.82,1.0,Moderate,Yes,2229500.0,2049.0
+NSW-0573,2022,Obi,39.0,Male,Primary,18.0,2.44,Yes,98.3,No,1120.6,26.5,6.28,1.0,Low,No,2701000.0,2621.0
+NSW-0234,2023,Awe,28.0,Male,Primary,8.0,3.85,Yes,69.7,No,1673.2,27.8,5.93,2.0,Moderate,Yes,2499400.0,1512.0
+NSW-0097,2024,Doma,42.0,Male,,19.0,1.52,No,89.9,No,1231.0,26.2,6.22,1.0,Moderate,Yes,759500.0,1286.0
+NSW-0152,2023,Nasarawa,45.0,Male,Secondary,22.0,2.98,Yes,159.0,No,874.2,25.4,6.07,2.0,Absent,No,4921100.0,3785.0
+NSW-0399,2022,wamba,35.0,Male,Tertiary,4.0,0.96,Yes,202.3,Yes,1123.3,27.1,5.81,4.0,Moderate,Yes,1619600.0,3676.0
+NSW-0016,2022,Doma,37.0,Male,No formal education,16.0,0.98,Yes,115.5,No,1309.4,27.0,6.55,1.0,Low,No,598700.0,1738.0
+NSW-0294,2024,Awe,46.0,Female,No formal education,18.0,1.02,No,not recorded,Yes,848.5,28.1,6.08,5.0,Low,Yes,1304300.0,3244.0
+NSW-0344,2023,Keana,28.0,Male,Primary,10.0,2.34,Yes,210.4,No,1176.3,28.9,6.09,4.0,Low,Yes,3070600.0,3474.0
+NSW-0146,2024,obi,64.0,Male,Primary,34.0,3.92,NO,108.1,No,1152.6,27.1,6.24,1.0,Moderate,Yes,3690700.0,2147.0
+NSW-0283,2022,Kokona,53.0,Female,Secondary,23.0,2.78,No,108.9,No,1257.7,27.7,6.22,2.0,Low,No,1927100.0,
+NSW-0355,2022,Karu,40.0,Male,Secondary,14.0,0.48,No,181.7,Yes,1391.0,28.9,6.88,1.0,Moderate,Yes,462100.0,1965.0
+NSW-0592,2022,Kokona ,55.0,Male,Tertiary,27.0,3.93,Yes,112.4,No,1159.7,27.5,6.55,2.0,Absent,Yes,5248200.0,3213.0
+NSW-0466,2023,Toto,46.0,Male,Secondary,24.0,1.3,No,89.2,No,1394.5,27.3,6.31,0.0,Absent,No,1215100.0,2341.0
+NSW-0630,2023,Toto,39.0,Female,Primary,7.0,1.34,Yes,121.7,No,1032.1,27.3,6.32,0.0,High,Yes,1125900.0,1925.0
+NSW-0240,2024,Kokona,36.0,Male,Primary,5.0,1.95,No,80.3,No,1190.7,26.7,6.6,0.0,Low,No,1266800.0,1537.0
+NSW-0640,2024,Awe,51.0,Male,No formal education,21.0,1.84,Yes,104.4,Yes,1442.3,28.7,5.74,1.0,Absent,No,2615000.0,3233.0
+NSW-0373,2022,kokona,34.0,Male,Primary,14.0,2.26,No,51.2,No,1378.4,27.9,6.22,2.0,Moderate,No,1057300.0,1097.0
+NSW-0092,2023,Kokona,48.0,Male,Secondary,29.0,1.66,yes,89.7,NO,1006.0,26.8,,1.0,Absent,Yes,2508300.0,3265.0
+NSW-0245,2024,Nasarawa-Eggon,44.0,Female,No formal education,12.0,2.63,No,76.3,No,1019.1,29.0,5.12,1.0,Moderate,No,768000.0,851.0
+NSW-0431,2022,Awe,46.0,Female,Secondary,14.0,2.32,No,89.0,No,1560.6,24.8,4.79,1.0,Moderate,No,221800.0,250.0
+NSW-0331,2024,Akwanga,28.0,Male,No formal education,1.0,0.81,Yes,128.9,No,1509.3,26.5,5.44,1.0,Low,No,703900.0,1965.0
+NSW-0598,2023,Kokona,53.0,Male,Primary,32.0,2.28,Yes,114.8,No,1159.8,26.3,5.39,3.0,Low,No,2441100.0,2584.0
+NSW-0008,2022,Keana,46.0,Male,Secondary,26.0,1.68,No,50.3,No,954.6,28.2,,2.0,Moderate,No,1108500.0,1527.0
+NSW-0543,2023,Akwanga,57.0,Female,Primary,33.0,1.76,No,85.7,Yes,1294.6,27.2,6.79,0.0,Low,Yes,2157600.0,2874.0
+NSW-0314,2022,Obi,49.0,Male,Tertiary,26.0,1.53,Yes,144.4,no,1098.8,27.2,6.48,1.0,Low,No,2399500.0,3650.0
+NSW-0182,2023,Toto,33.0,Male,Secondary,9.0,0.89,Yes,146.2,No,1210.8,28.1,7.15,0.0,Moderate,Yes,1009300.0,2837.0
+NSW-0139,2024,Nasarawa Eggon,43.0,Male,Secondary,15.0,1.11,Yes,211.0,No,1421.2,25.6,6.18,3.0,Moderate,Yes,1226900.0,2965.0
+NSW-0211,2022,Keana,51.0,Male,No formal education,28.0,1.61,yes,71.2,No,1536.3,27.0,6.32,1.0,Low,NO,1047800.0,1664.0
+NSW-0403,2024,nasarawa eggon,35.0,Female,No formal education,5.0,1.93,Yes,81.0,No,,27.2,6.68,2.0,Low,Yes,2404300.0,2989.0
+NSW-0388,2024,Lafia,37.0,Male,No formal education,10.0,4.85,No,125.9,No,1157.1,26.9,,1.0,Low,No,4689900.0,2023.0
+NSW-0386,2023,Kokona,20.0,Male,Tertiary,1.0,1.51,No,133.1,NO,1012.2,25.4,6.55,2.0,Moderate,No,1049600.0,1507.0
+NSW-0282,2023,Lafia,52.0,Male,Primary,20.0,2.01,No,174.2,No,1494.4,26.7,5.63,2.0,Low,Yes,1484300.0,1783.0
+NSW-0432,2022,Karu,64.0,Male,Secondary,46.0,3.75,NO,70.5,No,1484.3,25.3,4.97,1.0,Moderate,No,1661100.0,1025.0
+NSW-0191,2024,Awe,48.0,Male,Secondary,19.0,0.61,Yes,75.3,No,1086.7,27.9,5.96,1.0,Moderate,No,773700.0,2896.0
+NSW-0518,2024,Wamba,40.0,Male,Primary,11.0,2.47,No,132.3,No,1261.3,27.7,6.23,2.0,Moderate,No,2251000.0,2347.0
+NSW-0637,2023,Lafia,35.0,Female,No formal education,8.0,0.82,No,183.8,No,1385.4,28.1,5.82,1.0,High,No,331800.0,1026.0
+NSW-0410,2022,Obi,65.0,Male,Tertiary,36.0,0.38,No,138.1,Yes,1195.9,26.5,,4.0,Moderate,Yes,442800.0,2909.0
+NSW-0522,2022,wamba,31.0,Male,Primary,11.0,1.14,No,131.7,No,1355.3,26.4,6.43,1.0,Low,Yes,1627500.0,3063.0
+NSW-0423,2024,Karu,,Female,Secondary,20.0,7.88,No,81.0,No,1027.9,25.5,6.86,1.0,High,No,3674100.0,1133.0
+NSW-0323,2022,Karu,54.0,Male,Primary,34.0,0.89,Yes,27.1,No,1544.3,29.0,,1.0,Moderate,No,449100.0,
+NSW-0450,2023,Keffi,48.0,Male,Primary,26.0,3.53,Yes,120.9,No,1290.4,27.2,5.48,1.0,High,No,3065700.0,2093.0
+NSW-0209,2022,Awe ,45.0,Female,Primary,21.0,2.57,Yes,110.2,Yes,1370.7,27.7,,6.0,Moderate,Yes,3339500.0,3416.0
+NSW-0197,2023,Wamba,79.0,Female,No formal education,60.0,3.22,yes,283.0,No,1481.8,27.1,5.9,0.0,Moderate,No,3840600.0,2510.0
+NSW-0613,2023,Akwanga,36.0,Male,Primary,4.0,0.89,No,93.6,No,1231.7,27.9,6.14,2.0,Absent,No,1291900.0,2838.0
+NSW-0369,2023,Nasarawa-Eggon,45.0,Female,,23.0,1.89,No,181.4,Yes,1381.0,24.7,6.5,2.0,Low,No,2110600.0,2722.0
+NSW-0263,2022,Wamba,,Male,Primary,14.0,1.97,No,82.8,No,1207.1,27.7,5.76,5.0,Moderate,Yes,1327700.0,1411.0
+NSW-0196,2023,Toto,,Male,Secondary,26.0,1.36,No,74.4,No,1370.0,29.7,5.87,2.0,Moderate,Yes,399000.0,657.0
+NSW-0614,2024,Lafia,34.0,Male,Secondary,5.0,1.49,Yes,145.3,Yes,1025.5,26.9,5.81,5.0,High,No,1837500.0,2730.0
+NSW-0159,2024,Akwanga,55.0,Female,Primary,24.0,2.19,No,149.5,No,1157.6,27.9,5.83,0.0,Moderate,No,2233200.0,2539.0
+NSW-0612,2022,Keana,51.0,Female,No formal education,30.0,2.47,Yes,79.1,No,,27.0,5.85,2.0,High,No,1876100.0,1988.0
+NSW-0528,2023,Obi,57.0,Female,Secondary,38.0,1.68,Yes,90.4,Yes,998.6,27.5,6.44,2.0,Low,Yes,2093900.0,2946.0
+NSW-0012,2022,Obi,,Male,,1.0,0.73,No,202.8,No,1399.3,28.0,6.17,3.0,Moderate,yes,490400.0,1615.0
+NSW-0437,2024,keffi,46.0,Male,Secondary,16.0,2.85,No,283.3,No,1365.7,27.9,6.19,0.0,Low,No,2631900.0,2057.0
+NSW-0046,2023,Nasarawa,65.0,Male,Primary,34.0,1.56,No,145.6,Y,785.0,29.2,6.1,2.0,Moderate,No,1214900.0,1876.0
+NSW-0389,2022,Kokona,49.0,Male,Secondary,27.0,1.51,Yes,not recorded,Yes,1211.3,27.1,,1.0,Low,Yes,1793400.0,3206.0
+NSW-0158,2023,Akwanga,45.0,Female,Tertiary,19.0,5.45,Yes,78.0,No,1368.9,26.4,6.49,0.0,High,No,6353200.0,2774.0
+NSW-0375,2022,Nasarawa,49.0,Male,Secondary,17.0,2.02,Yes,52.5,No,1205.1,27.8,5.77,0.0,Absent,No,2322300.0,2421.0
+NSW-0041,2022,Toto,63.0,Male,Primary,39.0,3.72,No,153.1,No,1411.1,25.8,5.9,7.0,Low,Yes,4161000.0,2588.0
+NSW-0275,2024,Wamba,35.0,Female,,8.0,2.81,Yes,135.5,No,1037.2,26.6,5.82,2.0,High,No,2672200.0,2117.0
+NSW-0083,2023,Keffi,38.0,Female,Primary,9.0,0.88,N,254.1,no,966.6,27.7,6.01,4.0,Moderate,Yes,703200.0,2252.0
+NSW-0199,2023,N/Eggon,43.0,Male,No formal education,22.0,2.92,No,178.5,No,1248.2,27.1,6.19,1.0,Low,No,3818400.0,3009.0
+NSW-0383,2022,Wamba,41.0,Female,No formal education,22.0,1.57,Yes,118.9,No,943.5,26.3,6.19,1.0,Moderate,No,1891400.0,2788.0
+NSW-0611,2023,Karu,37.0,Male,Secondary,14.0,1.89,No,166.0,No,1066.2,28.8,5.4,2.0,High,No,1182900.0,1802.0
+NSW-0013,2023,nasarawa eggon,41.0,Male,Secondary,14.0,3.65,Yes,165.7,Yes,992.2,26.0,6.06,5.0,Absent,yes,6182200.0,4195.0
+NSW-0128,2023,Awe,51.0,Female,Primary,29.0,4.01,NO,70.6,No,1014.9,26.5,6.3,0.0,Low,No,4640300.0,2529.0
+NSW-0190,2024,Nasarawa,33.0,Male,Primary,6.0,1.02,Yes,124.0,No,963.7,29.3,5.97,3.0,Absent,Yes,1095100.0,2239.0
+NSW-0363,2022,Doma,43.0,Male,No formal education,20.0,2.04,Yes,81.4,No,1533.7,27.7,6.53,,Absent,No,1817100.0,2191.0
+NSW-0235,2024,Wamba,22.0,Male,Secondary,1.0,2.44,No,209.1,No,832.4,27.7,6.74,1.0,High,YES,2684600.0,2439.0
+NSW-0517,2022,Kokona,40.0,Male,Primary,15.0,2.27,No,131.0,No,1212.1,27.6,6.1,2.0,Absent,No,2529000.0,2340.0
+NSW-0192,2023,Nasarawa,57.0,Female,Primary,34.0,1.17,No,58.8,No,1312.9,27.9,5.27,1.0,Low,No,675100.0,1313.0
+NSW-0133,2022,Keana,32.0,Male,Tertiary,7.0,2.41,Yes,159.4,No,1493.1,25.1,6.08,3.0,Moderate,Yes,2500000.0,2349.0
+NSW-0483,2022,Akwanga,47.0,Male,Tertiary,23.0,2.7,Yes,86.5,No,912.0,25.0,5.82,1.0,Moderate,Yes,2229500.0,2049.0
+NSW-0594,2024,Awe ,38.0,Female,Secondary,17.0,2.94,No,121.7,No,1300.2,27.1,5.46,2.0,Low,No,2645400.0,2019.0
+NSW-0577,2022,Karu,36.0,Male,Primary,17.0,1.18,Yes,37.1,No,1193.1,24.5,,5.0,Low,No,1127200.0,2651.0
+NSW-0036,2024,Keana,31.0,Female,Primary,1.0,2.4,Yes,221.1,Yes,1269.5,26.9,5.33,,Low,No,3272600.0,3865.0
+NSW-0638,2023,awe,50.0,Male,Secondary,28.0,1.88,No,157.9,No,1278.7,26.9,6.26,2.0,Moderate,No,2472100.0,3198.0
+NSW-0310,2024,Nasarawa,28.0,Male,Primary,1.0,1.87,Yes,199.5,No,884.2,28.8,5.33,2.0,Absent,No,2519300.0,2980.0
+NSW-0338,2022,Awe,45.0,Female,Primary,21.0,3.24,Yes,89.7,No,1340.8,27.6,6.19,0.0,Absent,No,5680000.0,4130.0
+NSW-0512,2023,N/Eggon,33.0,Male,Primary,8.0,1.29,YES,135.2,Yes,1179.9,25.7,5.29,2.0,Low,Yes,1603400.0,2775.0
+NSW-0532,2024,Doma ,62.0,Male,Secondary,37.0,2.83,Yes,159.2,No,1123.2,31.1,5.44,1.0,Low,Yes,2705800.0,2238.0
+NSW-0497,2023,Obi,42.0,Male,Secondary,22.0,5.39,Yes,267.1,No,1080.9,28.6,6.18,6.0,Absent,yes,7908900.0,3820.0
+NSW-0465,2022,Obi,41.0,Male,Primary,14.0,1.81,Yes,183.0,Yes,1148.6,27.1,5.32,1.0,Moderate,No,2126700.0,2741.0
+NSW-0157,2022,Karu,45.0,Male,No formal education,18.0,1.18,No,116.1,No,854.9,27.5,6.55,2.0,Absent,No,1084400.0,2435.0
+NSW-0458,2022,Lafia,59.0,Female,Primary,37.0,1.75,NO,111.5,Yes,1458.8,26.3,5.61,0.0,Low,Yes,1692600.0,2217.0
+NSW-0132,2022,Wamba,36.0,Male,No formal education,9.0,2.24,No,not recorded,No,1039.3,27.4,7.03,2.0,Low,Yes,2500200.0,2553.0
+NSW-0553,2024,Awe,62.0,Male,No formal education,43.0,1.9,No,192.5,Yes,1227.2,25.1,5.88,3.0,Low,Yes,2438700.0,2996.0
+NSW-0257,2022,Karu,41.0,Male,No formal education,10.0,2.17,Yes,146.5,N,1188.5,27.2,6.43,2.0,Low,Yes,3576400.0,3572.0
+NSW-0088,2023,Nasarawa Eggon,44.0,Male,Secondary,14.0,0.78,No,107.7,No,,29.0,6.18,1.0,Low,No,843100.0,2517.0
+NSW-0137,2024,Nasarawa Eggon,34.0,Female,Secondary,15.0,2.56,No,88.3,No,920.0,27.0,5.76,0.0,Low,No,1752100.0,1829.0
+NSW-0486,2023,Wamba,54.0,Female,Tertiary,25.0,1.91,No,69.6,No,1010.0,27.7,5.8,1.0,Low,Yes,1665000.0,2057.0
+NSW-0536,2023,Akwanga,32.0,Male,Primary,7.0,0.8,Yes,29.1,No,964.2,27.7,5.56,0.0,High,No,466200.0,1524.0
+NSW-0321,2022,Toto,35.0,Female,Primary,6.0,1.48,Yes,162.9,No,1165.8,27.5,6.75,0.0,Low,No,2181700.0,3460.0
+NSW-0332,2023,Akwanga,45.0,Female,Secondary,24.0,1.0,No,192.9,No,1381.8,27.7,5.89,3.0,Low,Yes,1147500.0,3073.0
+NSW-0214,2022,Lafia,63.0,Male,Secondary,44.0,0.9,Yes,198.1,No,1091.0,28.7,5.97,6.0,Low,Yes,1334200.0,3343.0
+NSW-0011,2022,Obi,40.0,Female,Tertiary,15.0,3.07,Yes,208.9,No,940.1,27.9,6.13,1.0,Low,No,3890700.0,3184.0
+NSW-0274,2024,N/Eggon,53.0,Male,Tertiary,22.0,8.15,No,164.0,No,1318.5,26.6,7.26,0.0,Low,No,7644300.0,2286.0
+NSW-0277,2023,Toto,55.0,Male,Primary,25.0,2.36,No,224.5,No,1149.2,27.8,6.34,2.0,Absent,Yes,2808400.0,2994.0
+NSW-0601,2024,Wamba,41.0,Male,No formal education,16.0,2.25,No,72.2,No,1384.1,28.5,6.49,1.0,Absent,No,1321300.0,1193.0
+NSW-0557,2023,Wamba,51.0,Male,Primary,28.0,1.19,Yes,97.1,No,1399.6,28.1,5.72,0.0,Absent,No,1177700.0,2289.0
+NSW-0173,2024,Wamba,59.0,Female,Primary,39.0,2.86,No,98.7,No,1153.6,25.3,5.87,3.0,Low,No,2432800.0,2126.0
+NSW-0180,2022,Toto,48.0,Female,Secondary,16.0,1.86,Yes,265.8,No,1430.4,28.4,5.72,2.0,Low,No,1954200.0,2849.0
+NSW-0108,2024,Kokona,54.0,Male,Tertiary,23.0,1.31,No,69.1,Yes,1526.4,27.5,5.33,0.0,Low,No,520500.0,918.0
+NSW-0552,2022,Lafia,47.0,Male,Primary,17.0,0.83,No,170.1,No,,25.6,6.26,0.0,High,No,689500.0,1754.0
+NSW-0495,2022,keana,41.0,Male,Primary,11.0,1.04,No,216.9,No,922.1,26.2,6.36,2.0,Moderate,Yes,1064700.0,2586.0
+NSW-0315,2022,Karu,54.0,Male,Secondary,24.0,4.09,No,90.9,No,1263.5,26.5,6.4,4.0,Moderate,No,4336400.0,2718.0
+NSW-0337,2024,Lafia,18.0,Male,Secondary,1.0,2.37,Yes,44.0,No,928.3,28.4,5.66,1.0,High,NO,871600.0,813.0
+NSW-0546,2024,Wamba,20.0,Male,Secondary,1.0,1.3,No,123.3,N,986.0,28.9,5.53,0.0,Low,No,1246900.0,2464.0
+NSW-0572,2022,Toto,46.0,Male,Secondary,25.0,1.92,Yes,135.7,No,907.9,27.6,6.41,1.0,Moderate,Yes,2253100.0,3207.0
+NSW-0442,2022,Keffi,42.0,Female,Primary,10.0,1.77,yes,89.7,Yes,1008.1,27.3,5.8,3.0,Moderate,Yes,1509800.0,1941.0
+NSW-0095,2024,Nasarawa ,32.0,Male,No formal education,8.0,1.75,No,130.8,No,1383.9,27.4,5.2,4.0,Low,Yes,970700.0,1422.0
+NSW-0077,2023,Keffi,19.0,Female,Secondary,1.0,2.55,Yes,116.0,No,1078.7,27.2,,1.0,Low,No,2503600.0,2816.0
+NSW-0129,2022,Doma,41.0,Male,No formal education,15.0,3.06,Yes,155.4,No,1449.1,28.1,6.45,,Low,No,3547400.0,2994.0
+NSW-0521,2023,Akwanga,18.0,Female,Secondary,1.0,2.16,No,80.1,No,959.9,26.3,5.63,0.0,Absent,No,2325600.0,2282.0
+NSW-0538,2022,Toto,62.0,Male,Secondary,36.0,1.5,No,110.8,No,1050.2,26.3,7.86,2.0,Low,No,819100.0,1377.0
+NSW-0361,2023,Kokona,18.0,Male,Secondary,1.0,2.46,Yes,188.7,Yes,1293.1,28.0,,1.0,Moderate,No,3707200.0,3766.0
+NSW-0491,2023,Keana,35.0,Female,No formal education,9.0,1.26,No,68.4,Yes,1436.1,27.8,5.8,2.0,Low,Yes,894000.0,1975.0
+NSW-0415,2022,Keffi,35.0,Female,Secondary,10.0,1.01,No,52.3,No,956.4,29.0,6.1,2.0,Low,No,781400.0,1702.0
+NSW-0566,2022,Awe,40.0,Male,Primary,16.0,0.55,No,179.0,NO,1107.0,27.7,6.44,0.0,High,Yes,497600.0,2194.0
+NSW-0124,2023,Keana,34.0,Female,No formal education,3.0,6.53,Yes,63.9,Yes,1124.9,27.3,5.98,,Low,No,6226000.0,2307.0
+NSW-0025,2024,Karu ,18.0,Female,,1.0,0.85,No,205.8,NO,923.8,26.2,5.59,1.0,Absent,No,1320900.0,3463.0
+NSW-0623,2023,Toto,42.0,Male,Secondary,10.0,1.23,Yes,173.6,no,1007.7,26.4,5.81,0.0,Low,Yes,1433800.0,2771.0
+NSW-0123,2024,Nasarawa-Eggon,24.0,Male,No formal education,3.0,2.93,No,69.5,Yes,727.5,27.1,5.68,0.0,Moderate,NO,1473600.0,1193.0
+NSW-0194,2023,Lafia ,50.0,Female,Secondary,28.0,1.77,Yes,214.5,No,1237.2,25.7,6.08,5.0,Low,Yes,2981500.0,3938.0
+NSW-0107,2024,Nasarawa-Eggon,59.0,Male,Primary,39.0,4.07,Yes,293.5,N,1416.1,28.3,5.65,2.0,Low,YES,5848900.0,3567.0
+NSW-0168,2022,Awe,46.0,Male,Secondary,23.0,3.67,No,81.9,No,975.5,27.4,,0.0,Absent,No,4558800.0,2829.0
+NSW-0091,2023,Lafia,47.0,Male,Secondary,15.0,1.47,No,56.9,No,1465.7,27.7,5.81,0.0,High,No,218000.0,378.0
+NSW-0616,2023,Keffi,46.0,Male,Secondary,19.0,1.76,yes,124.6,No,1292.0,27.2,5.95,1.0,Low,no,1579100.0,1907.0
+NSW-0276,2022,Obi,33.0,Female,Secondary,6.0,3.03,No,not recorded,No,1277.6,28.1,,3.0,Moderate,No,2618200.0,2042.0
+NSW-0326,2022,Karu,43.0,Male,Secondary,11.0,0.98,Yes,65.3,No,1156.9,27.7,6.69,2.0,Absent,No,1384500.0,2740.0
+NSW-0299,2023,nasarawa eggon,69.0,Female,Secondary,43.0,1.09,Yes,147.3,No,1193.5,28.8,5.27,0.0,Moderate,No,1230800.0,2732.0
+NSW-0514,2023,Keana,22.0,Male,No formal education,3.0,6.09,Yes,67.0,Yes,1471.5,25.5,6.15,,Low,No,5902700.0,2188.0
+NSW-0064,2024,Toto,48.0,Male,Primary,27.0,2.25,No,120.4,No,1086.4,27.8,6.71,7.0,Low,Yes,2374000.0,2207.0
+NSW-0082,2024,Nasarawa Eggon,40.0,Male,No formal education,13.0,1.92,Yes,68.4,No,1300.5,27.5,5.36,1.0,Low,No,1835500.0,2360.0
+NSW-0393,2023,Keffi,52.0,Male,No formal education,27.0,0.92,No,125.6,Yes,827.8,29.4,5.89,3.0,Moderate,Yes,395500.0,1062.0
+NSW-0061,2024,Wamba,43.0,Female,Secondary,23.0,0.83,No,149.0,No,869.3,27.1,6.99,3.0,High,Yes,572800.0,1606.0
+NSW-0106,2024,Keffi,35.0,Female,Primary,6.0,1.34,Yes,97.8,No,1236.2,26.5,6.09,5.0,Absent,Yes,1594000.0,2882.0
+NSW-0171,2023,Toto,47.0,Male,No formal education,15.0,2.21,No,235.1,No,1590.7,25.3,6.0,3.0,Low,No,1892100.0,1852.0
+NSW-0278,2022,Keana,56.0,Male,Primary,31.0,2.63,No,243.4,No,1017.9,28.7,6.34,1.0,Low,Yes,2612300.0,2440.0
+NSW-0065,2024,Wamba,53.0,Male,Secondary,28.0,0.91,No,20.4,No,1273.4,27.7,5.81,1.0,Low,No,718300.0,1897.0
+NSW-0560,2022,Keffi,44.0,Male,Tertiary,17.0,3.66,No,98.3,No,1367.5,27.7,6.77,2.0,Moderate,No,3926400.0,2565.0
+NSW-0339,2023,Nasarawa,46.0,Female,Tertiary,20.0,2.6,Yes,92.3,No,979.7,29.1,5.95,0.0,Moderate,N,2879500.0,2511.0
+NSW-0446,2023,Nasarawa,32.0,Male,Secondary,13.0,1.5,Yes,230.3,Yes,1001.5,26.6,6.51,0.0,Low,No,2624000.0,4164.0
+NSW-0075,2023,lafia,50.0,Male,Tertiary,23.0,2.28,Yes,154.5,No,934.9,28.2,5.91,2.0,Absent,N,2287200.0,2484.0
+NSW-0307,2022,Karu ,41.0,Male,Secondary,10.0,1.07,Yes,24.8,No,1181.9,28.1,6.74,3.0,High,No,859400.0,1995.0
+NSW-0286,2023,Awe,53.0,Male,Secondary,24.0,0.98,No,79.7,Yes,1238.5,27.7,6.36,2.0,Absent,No,927700.0,2950.0
+NSW-0126,2024,Kokona,64.0,Male,Primary,38.0,1.8,Yes,187.0,No,978.7,28.6,4.78,3.0,Absent,Yes,1368600.0,1726.0
+NSW-0385,2023,Akwanga,48.0,Male,Primary,28.0,2.15,Yes,82.8,no,,27.0,5.85,,Absent,Yes,2906000.0,2924.0
+NSW-0300,2023,Karu,38.0,Male,Tertiary,16.0,2.04,N,36.0,Yes,1276.9,26.2,6.44,0.0,Moderate,No,2230500.0,2777.0
+NSW-0489,2023,Lafia,50.0,Male,Secondary,24.0,1.06,Yes,59.5,No,927.2,27.4,6.28,3.0,High,No,957100.0,2148.0
+NSW-0303,2024,Keana,50.0,Male,Tertiary,29.0,3.37,No,80.5,No,1102.6,28.1,5.47,0.0,High,No,1675900.0,1119.0
+NSW-0559,2024,Wamba,70.0,Male,Secondary,41.0,2.04,Y,59.1,No,1049.0,27.6,,1.0,Moderate,No,1805900.0,1885.0
+NSW-0505,2024,Keana,27.0,Female,Secondary,7.0,1.7,No,103.2,No,1329.6,27.1,,2.0,Low,No,1478700.0,2022.0
+NSW-0529,2022,Karu,58.0,Male,Primary,36.0,3.05,No,43.4,No,1230.6,30.1,5.69,0.0,Moderate,No,2107500.0,1508.0
+NSW-0569,2023,Awe,49.0,Male,Secondary,23.0,1.31,Yes,202.7,No,1022.8,26.1,4.87,8.0,Absent,Yes,1464100.0,2735.0
+NSW-0316,2024,Keffi,46.0,Female,No formal education,24.0,0.63,Yes,104.3,N,1524.4,27.1,6.07,1.0,Low,No,618500.0,2135.0
+NSW-0249,2024,Toto,44.0,Female,No formal education,12.0,4.37,Yes,17.7,No,1399.8,29.5,6.09,3.0,High,No,2503000.0,1307.0
+NSW-0125,2023,Nasarawa Eggon,23.0,Male,No formal education,1.0,1.81,Yes,190.9,N,1309.7,27.0,6.37,1.0,Absent,Yes,2433400.0,3166.0
+NSW-0163,2024,Awe,32.0,Male,No formal education,12.0,2.17,No,152.1,No,909.9,26.8,6.63,1.0,Moderate,No,1506300.0,1884.0
+NSW-0251,2023,Awe,45.0,Male,Secondary,27.0,2.48,no,115.6,No,1112.4,26.2,6.73,2.0,High,Yes,2397900.0,2515.0
+NSW-0089,2022,Keffi,50.0,Male,Secondary,21.0,3.49,Yes,84.7,No,1395.0,24.9,6.73,0.0,Low,No,2905700.0,2052.0
+NSW-0053,2024,Doma,,Female,Tertiary,22.0,2.07,No,97.0,No,1356.0,27.7,6.09,2.0,Absent,No,2705200.0,2829.0
+NSW-0438,2022,lafia,36.0,Male,Tertiary,8.0,0.96,Yes,145.6,No,889.6,25.1,6.67,4.0,Absent,Yes,1069600.0,2837.0
+NSW-0554,2024,Akwanga,23.0,Male,Tertiary,1.0,0.64,Yes,167.5,No,1222.0,26.5,6.65,3.0,Absent,Yes,988900.0,3670.0
+NSW-0319,2022,Nasarawa,45.0,Female,Tertiary,16.0,0.61,No,30.2,No,981.3,27.5,6.15,0.0,Absent,No,375900.0,1511.0
+NSW-0452,2022,Keana,39.0,Male,Tertiary,20.0,0.98,No,37.0,NO,764.1,28.4,5.39,2.0,Low,No,615400.0,1350.0
+NSW-0372,2024,Nasarawa,55.0,Male,Tertiary,26.0,1.96,No,19.6,No,1314.2,28.1,5.99,0.0,Absent,No,1174100.0,1527.0
+NSW-0426,2022,Karu,57.0,Male,Primary,30.0,3.03,Yes,260.8,Yes,1222.9,27.1,6.37,4.0,Absent,Yes,6916700.0,4980.0
+NSW-0220,2024,Keana,31.0,Male,Primary,5.0,2.24,No,125.0,No,,26.2,7.04,2.0,Low,Yes,2275600.0,2397.0
+NSW-0590,2024,N/Eggon,46.0,Female,Secondary,21.0,0.95,yes,105.1,NO,1315.0,29.3,6.05,0.0,Low,NO,880100.0,2199.0
+NSW-0138,2022,Nasarawa Eggon,32.0,Male,Tertiary,8.0,2.6,Yes,not recorded,Yes,1327.4,27.1,6.57,,Moderate,Yes,4729000.0,3823.0
+NSW-0581,2023,Keana,33.0,Male,,15.0,2.77,No,214.3,No,1193.3,27.9,6.74,2.0,Low,Yes,3337500.0,3275.0
+NSW-0597,2023,Doma,37.0,Male,Secondary,14.0,1.45,No,172.2,NO,857.1,25.7,6.35,,Low,Yes,1377000.0,2434.0
+NSW-0047,2024,Obi,37.0,Male,Primary,16.0,2.39,No,102.5,No,1304.6,27.0,5.78,1.0,Low,No,1596600.0,1538.0
+NSW-0469,2024,Nasarawa,54.0,Male,Primary,22.0,1.76,No,86.3,No,885.0,27.1,6.25,0.0,Absent,No,1705100.0,2215.0
+NSW-0351,2022,Lafia,40.0,Female,Tertiary,8.0,0.67,Yes,68.1,No,1291.9,28.4,,1.0,Absent,No,512800.0,1879.0
+NSW-0154,2024,Doma,28.0,Male,Secondary,9.0,1.76,no,139.0,No,1488.6,27.8,5.76,0.0,Low,No,1414800.0,1888.0
+NSW-0593,2023,Akwanga ,47.0,Female,No formal education,15.0,4.52,No,79.5,No,1461.0,27.2,5.94,2.0,Absent,No,3930200.0,1962.0
+NSW-0395,2022,Lafia,60.0,Male,Primary,37.0,1.71,Yes,155.1,No,1216.3,28.6,6.35,0.0,Low,No,2119300.0,2890.0
+NSW-0054,2022,Doma,27.0,Female,Secondary,9.0,3.36,Yes,165.8,No,1378.9,28.6,5.45,2.0,Absent,Yes,2552100.0,1891.0
+NSW-0568,2023,Nasarawa Eggon,57.0,Male,Primary,26.0,2.45,Yes,47.9,Yes,1275.2,25.8,7.05,2.0,Low,No,2179200.0,2609.0
+NSW-0141,2024,Keana,25.0,Male,Secondary,1.0,2.08,No,103.9,No,1132.1,26.1,,1.0,Low,yes,1769100.0,2149.0
+NSW-0342,2023,Doma,27.0,Male,Secondary,7.0,3.11,Yes,151.1,No,1013.5,27.1,5.67,2.0,Moderate,No,4060200.0,2862.0
+NSW-0181,2023,Karu,18.0,Female,Primary,1.0,1.69,Yes,124.2,No,1155.5,29.2,,1.0,Absent,Yes,2089600.0,3143.0
+NSW-0005,2022,Keana,36.0,Male,Secondary,13.0,2.27,Yes,106.4,No,915.1,29.1,5.6,1.0,Low,No,2057200.0,2017.0
+NSW-0399,2022,wamba,35.0,Male,Tertiary,4.0,0.96,Yes,202.3,Yes,1123.3,27.1,5.81,4.0,Moderate,Yes,1619600.0,3676.0
+NSW-0327,2024,Kokona,45.0,Female,Secondary,15.0,1.08,No,170.3,no,1171.1,28.0,5.54,1.0,Low,No,1105500.0,2504.0
+NSW-0066,2022,Obi,58.0,Male,Secondary,32.0,2.64,Yes,244.9,No,1047.0,27.2,6.17,1.0,Low,No,3759400.0,3370.0
+NSW-0584,2023,keana,58.0,Male,Secondary,29.0,1.27,Yes,111.5,No,1277.7,26.6,,3.0,Low,Y,1651200.0,2854.0
+NSW-0519,2023,Keffi,33.0,Male,No formal education,12.0,3.35,No,173.8,No,1288.6,27.9,6.83,1.0,Moderate,No,2771500.0,1953.0
+NSW-0170,2022,Akwanga,30.0,Male,Primary,11.0,1.23,No,125.5,No,1114.6,26.9,6.87,3.0,High,Yes,1111400.0,2184.0
+NSW-0427,2023,Nasarawa Eggon,45.0,Female,Primary,13.0,4.33,No,122.3,No,1103.7,25.3,6.47,0.0,Moderate,No,4142200.0,2540.0
+NSW-0348,2023,Wamba,46.0,Female,Primary,26.0,0.85,Yes,102.2,No,1441.1,27.3,5.65,,Low,Yes,866900.0,2320.0
+NSW-0510,2024,Nasarawa,41.0,Female,Secondary,10.0,1.74,No,110.6,No,942.8,29.1,5.45,1.0,Low,No,980300.0,1302.0
+NSW-0368,2022,Wamba,46.0,Male,No formal education,19.0,0.92,Yes,102.3,No,1483.0,28.5,5.66,0.0,Absent,No,1029800.0,2596.0
+NSW-0350,2024,Wamba,41.0,Male,Secondary,9.0,1.84,Yes,142.5,No,896.3,28.7,6.6,3.0,Low,Yes,1715800.0,2186.0
+NSW-0279,2023,Nasarawa Eggon,35.0,Male,Secondary,7.0,1.11,No,141.3,No,1223.5,27.3,,1.0,Low,No,729200.0,1686.0
+NSW-0371,2023,Obi,47.0,Male,Primary,25.0,4.48,No,83.5,No,1223.3,25.5,6.13,4.0,High,Yes,2785300.0,1437.0
+NSW-0454,2024,Lafia,40.0,Female,Primary,18.0,2.53,Yes,102.3,No,1304.2,26.5,5.87,0.0,Moderate,No,1890300.0,1717.0
+NSW-0551,2024,Lafia,53.0,Male,Primary,21.0,1.94,No,160.5,no,1205.1,28.5,6.1,2.0,Low,No,2172900.0,2408.0
+NSW-0027,2024,Lafia,,Female,Secondary,21.0,1.64,Yes,287.4,No,923.7,26.4,5.94,4.0,Absent,Yes,1547600.0,2546.0
+NSW-0179,2024,Lafia,53.0,Male,Primary,29.0,2.35,YES,75.3,No,,28.3,5.86,1.0,Low,No,2350700.0,2027.0
+NSW-0591,2024,obi,22.0,Female,Secondary,1.0,3.4,No,141.2,No,,29.1,5.95,4.0,Low,Yes,3298200.0,2039.0
+NSW-0605,2022,Toto,50.0,Male,Tertiary,28.0,1.12,No,195.0,No,1306.3,27.6,6.1,2.0,Moderate,Yes,1164800.0,2311.0
+NSW-0478,2024,Keana,42.0,Male,Primary,23.0,1.5,Yes,73.0,No,1245.8,28.2,6.44,2.0,Low,Yes,1629400.0,3024.0
+NSW-0164,2022,Nasarawa,31.0,Female,Secondary,11.0,1.07,Yes,47.2,No,1266.4,26.4,5.87,1.0,Low,No,888300.0,2072.0
+NSW-0558,2023,Keana,24.0,Male,Primary,2.0,1.96,No,136.0,No,1278.4,27.1,5.9,2.0,High,Yes,1445300.0,1616.0
+NSW-0412,2022,Obi,43.0,Male,Secondary,20.0,3.18,Yes,79.1,No,976.2,25.2,6.17,1.0,Moderate,Yes,3700500.0,2452.0
+NSW-0618,2024,Keffi,40.0,Female,Secondary,8.0,0.69,No,not recorded,No,,27.3,6.27,5.0,Moderate,yes,602500.0,2245.0
+NSW-0583,2023,Kokona,46.0,Male,Primary,23.0,1.21,NO,94.2,No,1058.9,27.0,5.76,0.0,Absent,No,902600.0,1914.0
+NSW-0218,2023,Nasarawa,23.0,Male,Tertiary,5.0,1.23,Yes,160.1,no,1397.6,27.3,6.4,1.0,High,no,1471500.0,2595.0
+NSW-0475,2024,Nasarawa Eggon,53.0,Female,Secondary,30.0,2.67,Yes,45.0,No,1316.9,28.9,7.34,3.0,Low,No,1850500.0,1659.0
+NSW-0602,2023,Nasarawa Eggon,40.0,Male,Secondary,18.0,2.06,No,68.2,No,1319.0,26.8,7.2,1.0,Low,No,1814400.0,2051.0
+NSW-0376,2022,Awe,46.0,Male,Secondary,27.0,2.68,Yes,226.8,No,1162.6,27.1,6.58,4.0,Low,Yes,4566200.0,4197.0
+NSW-0530,2024,Nasarawa,50.0,Male,Primary,20.0,0.62,Yes,184.9,NO,972.0,28.8,5.55,1.0,Absent,No,749200.0,2632.0
+NSW-0524,2022,kokona,37.0,Female,No formal education,7.0,2.8,No,205.0,No,1061.4,27.4,6.94,1.0,High,No,2132200.0,1795.0
+NSW-0150,2022,Toto,41.0,Male,Secondary,11.0,3.96,Yes,58.7,No,1082.3,26.2,5.4,3.0,High,No,2830600.0,1599.0
+NSW-0094,2023,Lafia,34.0,Male,Primary,14.0,2.12,No,108.8,No,1191.7,27.0,6.95,2.0,Low,Yes,1887200.0,2129.0
+NSW-0309,2022,Nassarawa,44.0,Male,Secondary,21.0,1.32,Yes,184.8,No,1272.5,27.4,5.92,4.0,Moderate,Yes,1849800.0,3489.0
+NSW-0633,2022,Akwanga,18.0,Female,,1.0,1.11,No,125.5,No,1197.8,28.2,5.69,3.0,Moderate,YES,1238800.0,2496.0
+NSW-0311,2022,Awe,37.0,Male,Tertiary,18.0,0.44,Yes,59.1,No,974.5,28.7,6.47,1.0,Low,NO,491900.0,2246.0
+NSW-0035,2022,Keffi,54.0,Male,Secondary,36.0,2.51,No,61.8,Yes,1277.2,26.9,6.32,0.0,Low,No,2161300.0,1959.0
+NSW-0499,2022,Karu,34.0,Male,No formal education,9.0,2.12,No,81.8,No,1125.2,27.8,5.57,1.0,Absent,no,2647500.0,2675.0
+NSW-0111,2024,Akwanga,31.0,Male,Primary,1.0,1.37,No,222.2,No,1045.4,28.6,5.89,4.0,Low,Yes,1569100.0,2943.0
+NSW-0228,2022,Awe,32.0,Male,Secondary,3.0,2.69,Yes,118.8,Yes,862.6,26.2,6.88,,Moderate,Yes,2944300.0,2887.0
+NSW-0585,2022,keana,50.0,Male,Tertiary,19.0,2.05,yes,90.2,No,1379.2,27.5,6.17,0.0,Moderate,No,2079100.0,2568.0
+NSW-0567,2022,Nasarawa Eggon,60.0,Female,Tertiary,37.0,2.62,No,96.7,No,1437.0,27.8,6.82,2.0,Low,No,3623400.0,3167.0
+NSW-0511,2023,Toto,42.0,Male,Primary,12.0,1.66,No,112.5,No,1030.7,24.7,5.67,1.0,Low,No,993700.0,1292.0
+NSW-0579,2023,nasarawa eggon,55.0,Male,Secondary,35.0,2.33,No,175.8,No,1321.2,25.5,6.44,5.0,High,Yes,1796600.0,2001.0
+NSW-0151,2022,Wamba,59.0,Male,No formal education,29.0,2.56,No,175.9,NO,1442.9,25.8,6.24,3.0,Moderate,Yes,1941100.0,1966.0
+NSW-0143,2023,Lafia,41.0,Male,Primary,21.0,0.83,No,71.5,No,1084.4,28.9,5.95,3.0,Low,No,489400.0,1456.0
+NSW-0396,2024,Doma,53.0,Male,Secondary,26.0,3.04,Yes,52.7,Yes,1201.9,24.5,6.23,0.0,High,No,2466200.0,2082.0
+NSW-0296,2024,Keana,28.0,Male,Primary,2.0,3.2,Yes,184.1,No,1192.1,26.5,6.23,5.0,Low,Yes,4463500.0,3225.0
+NSW-0377,2024,Doma,18.0,Female,Secondary,1.0,3.09,Yes,32.3,Y,1191.3,26.1,6.84,1.0,Low,no,3850300.0,2848.0
+NSW-0272,2022,Nasarawa ,44.0,Female,Secondary,19.0,1.72,Yes,120.1,No,1133.2,28.1,6.23,0.0,Moderate,No,1803600.0,2376.0
+NSW-0578,2023,Kokona,49.0,Male,No formal education,22.0,2.9,No,112.4,No,1215.2,28.4,6.3,1.0,Moderate,NO,1298500.0,1217.0
+NSW-0582,2022,keffi,35.0,Male,Secondary,8.0,2.15,Yes,58.2,No,1461.9,26.0,6.85,2.0,Absent,Yes,1640400.0,1939.0
+NSW-0001,2024,Toto ,35.0,Female,Tertiary,14.0,0.87,Yes,70.2,No,1060.5,27.8,6.18,,Low,No,723200.0,2144.0
+NSW-0336,2023,Akwanga,42.0,Male,Primary,24.0,6.39,no,170.8,YES,1127.7,26.7,6.24,2.0,Moderate,Yes,6230500.0,2669.0
+NSW-0405,2024,Akwanga,29.0,Female,Tertiary,9.0,2.59,Yes,252.7,no,1179.1,27.5,6.64,1.0,Moderate,No,4343000.0,3707.0
+NSW-0558,2023,Keana,24.0,Male,Primary,2.0,1.96,No,136.0,No,1278.4,27.1,5.9,2.0,High,Yes,1445300.0,1616.0
+NSW-0304,2022,Keana,27.0,Male,Secondary,1.0,0.85,No,128.1,No,1323.9,27.6,5.44,2.0,Moderate,Yes,696100.0,1694.0
+NSW-0457,2022,Awe,29.0,Female,No formal education,6.0,4.39,Yes,120.8,No,1323.9,27.8,7.3,2.0,Absent,Yes,6461500.0,2863.0
+NSW-0498,2023,Awe,22.0,Male,Primary,1.0,0.9,Yes,170.6,No,1375.2,27.8,6.53,2.0,Low,No,1243100.0,3217.0
+NSW-0175,2022,Lafia,31.0,Female,Primary,2.0,0.87,Yes,124.2,No,1098.7,27.6,6.5,5.0,Low,Yes,1198600.0,2998.0
+NSW-0588,2022,Keffi,40.0,Male,Secondary,11.0,1.46,Yes,105.6,No,1105.9,28.0,6.34,6.0,Absent,Yes,1935600.0,3233.0
+NSW-0177,2022,Kokona,34.0,Female,Tertiary,16.0,0.77,Y,80.8,No,1056.6,26.5,6.74,1.0,Absent,No,1011900.0,2930.0
+NSW-0232,2024,Akwanga,52.0,Male,Primary,29.0,4.72,No,135.8,No,1416.9,28.3,6.61,0.0,Moderate,No,3380400.0,1911.0
+NSW-0571,2024,Wamba,22.0,Male,No formal education,2.0,0.79,No,81.4,No,1326.7,26.8,6.56,1.0,Absent,Yes,615100.0,1986.0
+NSW-0302,2024,toto,56.0,Female,Primary,25.0,1.89,Yes,81.2,No,1296.7,26.0,5.98,0.0,Moderate,No,2091300.0,2509.0
+NSW-0494,2024,Kokona,49.0,Male,Primary,29.0,1.54,Yes,108.4,No,1350.5,27.8,5.13,1.0,High,No,854800.0,1264.0
+NSW-0223,2022,Lafia,43.0,Female,Primary,23.0,1.4,N,105.0,No,1511.5,25.1,6.05,1.0,Low,No,736500.0,1347.0
+NSW-0241,2023,Wamba,35.0,Female,Primary,6.0,1.24,No,175.4,No,1311.7,26.7,5.75,0.0,Low,No,1194900.0,
+NSW-0156,2023,Wamba,55.0,Male,No formal education,36.0,1.2,Yes,185.8,No,1123.7,27.2,6.35,2.0,Absent,Yes,1740800.0,3456.0
+NSW-0346,2022,Lafia,36.0,Female,No formal education,18.0,1.94,No,52.9,NO,1144.4,28.8,6.79,3.0,Low,No,1224500.0,1467.0
+NSW-0213,2024,Karu,41.0,Male,Secondary,14.0,4.48,Yes,not recorded,No,1019.4,26.4,5.75,0.0,Absent,No,5760200.0,2748.0
+NSW-0451,2024,Keffi,40.0,Female,Tertiary,20.0,0.81,Yes,112.3,No,,27.2,6.41,3.0,Low,Y,580000.0,1934.0
+NSW-0288,2023,Keana,51.0,Male,Primary,19.0,4.22,No,248.1,Yes,1212.7,27.0,5.42,1.0,Low,Yes,6150200.0,3466.0
+NSW-0563,2022,Toto,45.0,Male,Secondary,27.0,2.59,Yes,54.2,No,1142.9,27.0,6.44,0.0,Low,no,2619500.0,2671.0
+NSW-0186,2023,Wamba,66.0,Male,No formal education,48.0,7.24,Yes,103.0,No,1101.8,28.9,5.64,1.0,High,Yes,4394300.0,1430.0
+NSW-0238,2023,Karu,40.0,Male,No formal education,19.0,0.83,Yes,89.1,No,1301.9,26.3,6.34,1.0,Moderate,No,524800.0,1855.0
+NSW-0147,2023,Kokona,47.0,Male,Secondary,29.0,1.77,Yes,70.3,No,,28.2,6.12,0.0,Low,No,1891900.0,2635.0
+NSW-0460,2022,Toto,59.0,Male,Primary,37.0,3.39,Yes,166.7,No,1380.6,26.7,6.11,,Low,Yes,4932900.0,3456.0
+NSW-0404,2023,Nasarawa,48.0,Female,Secondary,20.0,1.99,N,204.7,No,966.2,26.0,6.91,2.0,High,Yes,1429400.0,1583.0
+NSW-0472,2022,Keana,40.0,Male,Primary,12.0,1.48,Yes,30.2,No,1498.2,28.3,6.09,1.0,Low,No,542800.0,946.0
+NSW-0462,2022,Akwanga ,28.0,Male,Primary,1.0,1.03,No,92.3,No,1108.5,26.0,5.7,1.0,Absent,no,1009900.0,2356.0
+NSW-0341,2023,keana,36.0,Male,Tertiary,8.0,0.83,No,198.2,No,883.0,27.4,6.88,3.0,Low,No,913100.0,2505.0
+NSW-0069,2022,Doma,43.0,Female,No formal education,22.0,2.56,No,115.7,No,1004.1,28.3,5.71,0.0,Low,No,1903800.0,1901.0
+NSW-0343,2023,Doma,50.0,Male,Tertiary,30.0,3.64,Yes,349.7,No,,26.8,6.56,5.0,Low,Yes,6267600.0,3913.0
+NSW-0520,2024,Lafia,46.0,Male,Primary,20.0,0.93,Yes,121.9,No,911.3,28.1,,0.0,High,Yes,914200.0,2163.0
+NSW-0105,2024,Keana,51.0,Male,Primary,22.0,2.26,No,143.3,Yes,1321.1,27.2,,0.0,Low,NO,1706700.0,1963.0
+NSW-0411,2023,Nasarawa,44.0,Female,Secondary,16.0,2.53,Y,173.5,No,1694.6,27.2,5.89,,Moderate,Yes,2262600.0,
+NSW-0010,2022,Keana,39.0,Female,Primary,12.0,1.93,no,158.0,No,1457.5,26.5,6.23,0.0,Absent,Yes,1638500.0,2110.0
+NSW-0556,2022,Awe,28.0,Female,Secondary,1.0,0.88,Yes,not recorded,No,1633.9,26.4,6.31,0.0,Low,Yes,1064900.0,2910.0
+NSW-0109,2024,Toto,35.0,Female,No formal education,13.0,0.87,Yes,83.6,No,1012.0,27.7,6.59,1.0,High,No,828900.0,1957.0
+NSW-0167,2023,Awe,45.0,Male,Secondary,15.0,2.2,No,106.1,No,1533.7,27.3,5.4,4.0,High,Yes,705000.0,702.0
+NSW-0589,2024,Awe,,Female,Tertiary,23.0,1.85,Yes,16.9,No,1170.0,29.0,5.84,1.0,Moderate,No,1303000.0,2017.0
+NSW-0148,2022,Wamba,32.0,Male,Primary,4.0,1.9,no,131.8,No,948.0,27.4,4.88,1.0,Absent,No,1337900.0,1768.0
+NSW-0540,2022,Lafia,31.0,Female,Secondary,1.0,1.29,Yes,128.2,No,1392.6,29.7,6.46,3.0,Low,No,1211000.0,2119.0
+NSW-0014,2024,Toto,37.0,Male,Tertiary,16.0,0.54,Yes,131.1,NO,1075.7,27.2,6.26,4.0,Absent,Yes,716200.0,3303.0
+NSW-0476,2022,Nasarawa,49.0,Female,Secondary,20.0,1.74,No,206.1,no,,29.1,6.78,0.0,Low,Yes,2508500.0,3162.0
+NSW-0513,2023,Akwanga,32.0,Female,Primary,14.0,2.63,Yes,192.6,No,1395.2,27.3,6.67,1.0,Low,NO,3937300.0,3242.0
+NSW-0121,2022,Toto,42.0,Male,Tertiary,14.0,3.76,Y,134.1,No,1219.3,28.1,4.78,2.0,High,No,1846200.0,1258.0
+NSW-0599,2023,Lafia,47.0,Male,No formal education,29.0,3.77,No,243.9,No,816.0,27.6,6.07,1.0,Low,Yes,4156600.0,2769.0
+NSW-0224,2022,Keana,42.0,Male,Secondary,19.0,4.23,Yes,197.4,No,1047.2,27.6,6.62,1.0,High,No,4627600.0,2611.0
+NSW-0239,2022,Wamba,27.0,Female,Primary,1.0,1.88,No,124.3,No,1144.2,27.6,,0.0,Low,No,2208200.0,2903.0
+NSW-0229,2022,Kokona,53.0,Male,No formal education,30.0,1.1,Yes,106.4,No,1125.1,27.5,5.67,1.0,Absent,Yes,1096900.0,2631.0
+NSW-0268,2023,Toto,39.0,Male,Primary,18.0,1.95,Yes,44.9,NO,1207.3,28.8,5.1,1.0,Absent,NO,1593400.0,1753.0
+NSW-0353,2023,Toto,52.0,Female,No formal education,21.0,1.59,Yes,164.0,No,,28.1,,0.0,Low,NO,1756600.0,2632.0
+NSW-0445,2023,Awe,55.0,Male,Primary,24.0,3.2,No,108.3,Yes,907.6,27.4,5.74,0.0,Absent,No,3615700.0,2691.0
+NSW-0130,2022,Toto,27.0,Male,No formal education,4.0,1.12,Yes,328.2,No,1432.2,27.0,6.15,3.0,Absent,Yes,1463400.0,2938.0
+NSW-0398,2022,Karu ,39.0,Male,Secondary,19.0,1.24,No,240.3,No,788.4,28.0,5.99,0.0,Absent,No,1635700.0,2950.0
+NSW-0068,2024,Lafia,18.0,Female,Primary,1.0,3.06,Yes,112.4,No,1205.0,28.5,5.96,3.0,Low,No,3032200.0,2559.0
+NSW-0628,2024,Toto,,Male,Secondary,5.0,2.55,NO,96.4,No,1548.6,28.9,6.1,1.0,Low,No,1501600.0,1426.0
+NSW-0463,2022,Akwanga,36.0,Male,No formal education,6.0,0.87,No,43.5,N,1030.0,28.3,6.44,1.0,High,no,512900.0,1274.0
+NSW-0545,2024,Kokona,53.0,Female,Secondary,33.0,0.86,Yes,178.8,no,1372.9,25.5,5.97,0.0,Low,Yes,981700.0,2836.0
+NSW-0298,2024,Awe,34.0,Male,No formal education,12.0,2.95,Yes,63.0,No,1272.4,27.3,6.42,2.0,Absent,No,3873300.0,3311.0
+NSW-0408,2024,Nasarawa Eggon,35.0,Female,Primary,15.0,5.43,No,110.1,No,1080.3,27.3,5.89,3.0,Low,Yes,5810200.0,2375.0
+NSW-0242,2022,Nasarawa,49.0,Female,Primary,18.0,1.05,Yes,136.3,No,1274.8,26.6,6.17,1.0,Low,Yes,1289300.0,2815.0
+NSW-0627,2023,Kokona,36.0,Male,Primary,8.0,1.33,Yes,145.5,No,1021.8,26.7,5.94,6.0,High,Yes,1125700.0,2024.0
+NSW-0477,2024,Nasarawa Eggon,49.0,Female,Secondary,19.0,1.42,Yes,64.5,No,1255.6,28.0,6.27,2.0,Absent,No,1735800.0,2590.0
+NSW-0564,2022,Doma,50.0,Male,Primary,30.0,0.72,No,145.8,No,1221.9,26.4,6.22,2.0,Moderate,No,708500.0,2289.0
+NSW-0455,2024,Awe,60.0,Male,Secondary,28.0,2.13,No,66.4,No,1140.6,27.8,6.01,1.0,Low,Yes,1882700.0,2484.0
+NSW-0435,2024,Keffi,34.0,Female,Secondary,5.0,1.52,No,110.2,No,872.6,26.6,5.48,1.0,Low,No,997400.0,1605.0
+NSW-0049,2024,Kokona ,46.0,Female,Secondary,22.0,2.47,Yes,134.5,Yes,1086.2,28.8,5.61,3.0,Absent,No,2777900.0,2803.0
+NSW-0417,2022,Toto,55.0,Male,,25.0,2.69,Yes,64.5,No,995.8,26.6,6.7,2.0,Absent,No,2589200.0,2497.0
+NSW-0394,2022,Toto,67.0,Female,Tertiary,38.0,1.23,No,127.7,No,1303.9,27.8,5.73,1.0,Absent,Yes,1196400.0,2223.0
+NSW-0203,2024,Kokona,48.0,Male,Primary,19.0,4.92,No,85.1,Yes,1081.2,26.6,5.48,1.0,Low,Yes,5157400.0,2392.0
+NSW-0118,2024,Akwanga,33.0,Male,Tertiary,2.0,2.49,No,141.2,No,1160.4,26.2,7.1,2.0,Moderate,No,2074100.0,2332.0
+NSW-0447,2024,Wamba,,Male,Primary,21.0,1.88,No,208.2,No,1112.9,29.1,6.3,1.0,Low,No,2010400.0,2700.0
+NSW-0317,2024,Awe,150.0,Male,Secondary,13.0,2.95,Yes,149.9,No,1315.2,26.3,6.31,3.0,Absent,No,4347800.0,3465.0
+NSW-0071,2022,Kokona,46.0,Male,Secondary,24.0,2.32,Yes,111.0,Yes,688.9,27.5,5.82,2.0,Low,yes,2063900.0,2197.0
+NSW-0320,2022,Nasarawa Eggon,47.0,Male,Primary,23.0,2.11,No,182.0,Yes,1374.3,27.3,5.93,2.0,Low,Y,2465800.0,3092.0
+NSW-0379,2024,Keffi,32.0,Male,Primary,2.0,1.12,Yes,151.2,Yes,1095.7,28.6,6.44,2.0,Low,No,1320300.0,3054.0
+NSW-0021,2022,Doma,38.0,Male,Secondary,17.0,1.06,Yes,44.0,No,1413.6,27.9,,0.0,Low,No,594100.0,1426.0
+NSW-0470,2024,Kokona,58.0,Male,No formal education,32.0,0.77,No,33.3,No,1125.2,26.2,5.64,1.0,Moderate,No,488900.0,1702.0
+NSW-0210,2022,Nasarawa Eggon,49.0,Male,No formal education,27.0,1.54,Yes,79.9,No,1172.3,27.3,6.17,1.0,Moderate,No,1688300.0,2546.0
+NSW-0267,2024,Kokona,42.0,Female,No formal education,12.0,1.47,Yes,184.9,No,924.9,26.6,5.97,1.0,Low,No,1826300.0,2844.0
+NSW-0098,2022,Nasarawa-Eggon,65.0,Female,Primary,43.0,1.68,Yes,44.0,No,1476.8,27.9,7.19,3.0,Moderate,NO,890500.0,1469.0
+NSW-0090,2024,Doma,61.0,Female,Secondary,31.0,0.79,Yes,109.4,No,1320.3,27.5,6.16,0.0,Low,No,938400.0,2586.0
+NSW-0172,2023,Lafia,42.0,Female,Secondary,19.0,1.38,No,186.4,No,1221.8,27.6,5.42,1.0,Low,No,1430800.0,2552.0
+NSW-0471,2022,Kokona,34.0,Male,Primary,11.0,0.93,No,not recorded,No,1267.2,27.0,6.24,5.0,Absent,Yes,900100.0,2274.0
+NSW-0474,2024,Karu,28.0,Male,No formal education,8.0,1.84,No,43.0,Yes,1430.0,28.9,6.16,0.0,Low,No,1457600.0,2229.0
+NSW-0273,2023,Nasarawa Eggon,21.0,Male,Tertiary,1.0,0.75,yes,57.4,NO,1226.2,26.8,,,Low,No,700500.0,2187.0
+NSW-0329,2024,Karu,41.0,Female,,13.0,6.98,No,151.1,N,1864.1,30.1,4.8,1.0,Low,No,799000.0,250.0
+NSW-0033,2022,Nasarawa,42.0,Female,Primary,14.0,3.53,No,129.8,No,974.1,25.4,6.54,0.0,Low,Yes,2687700.0,1754.0
+NSW-0503,2022,Akwanga,44.0,Male,Secondary,13.0,1.35,No,167.6,No,969.0,27.4,5.58,3.0,Low,Yes,1638300.0,3190.0
+NSW-0183,2022,Doma,31.0,Male,Secondary,5.0,1.19,No,74.4,Yes,1207.6,26.3,6.68,2.0,Absent,No,1180400.0,2278.0
+NSW-0099,2022,Wamba,39.0,Female,Primary,18.0,2.38,NO,88.3,YES,1278.5,26.8,5.8,1.0,Low,Yes,2732600.0,2775.0
+NSW-0509,2023,Doma,42.0,Male,Primary,11.0,2.31,No,238.7,No,1111.4,28.2,6.0,2.0,Absent,Yes,3146900.0,3299.0
+NSW-0023,2023,N/Eggon,37.0,Female,Secondary,9.0,1.3,Yes,100.3,No,830.6,27.3,5.44,1.0,Low,No,1233800.0,2240.0
+NSW-0039,2024,Awe,51.0,Male,Primary,24.0,1.27,Yes,162.0,No,1112.1,28.1,7.01,0.0,Moderate,No,1785600.0,3102.0
+NSW-0096,2023,Doma,37.0,Female,Primary,10.0,0.8,No,195.1,No,1300.6,29.3,6.3,8.0,Absent,Yes,967200.0,3183.0
+NSW-0354,2023,Toto,44.0,Male,Primary,12.0,0.58,No,183.4,No,1292.7,25.5,5.7,1.0,Low,no,542100.0,2248.0
+NSW-0548,2024,Nasarawa-Eggon,42.0,Male,Primary,23.0,3.55,Yes,114.7,NO,1310.4,28.0,6.84,2.0,Moderate,No,2936000.0,2237.0
+NSW-0265,2024,Kokona,40.0,Male,Primary,14.0,1.55,no,129.7,No,1236.7,25.4,5.2,1.0,Moderate,NO,562900.0,895.0
+NSW-0340,2024,Kokona,50.0,Male,No formal education,28.0,1.02,N,186.9,No,1174.1,26.8,6.74,1.0,Absent,Yes,1277600.0,2900.0
+NSW-0420,2022,Toto,36.0,Male,No formal education,12.0,2.21,Yes,72.3,Yes,1356.9,25.4,5.82,1.0,Moderate,No,1547400.0,1837.0
+NSW-0086,2022,Karu,26.0,Male,Primary,1.0,2.38,YES,83.8,Yes,1158.5,27.9,5.39,4.0,High,Yes,2443700.0,2446.0
+NSW-0370,2022,Karu,41.0,Female,Secondary,20.0,3.95,No,108.8,NO,1369.3,28.1,5.32,2.0,Absent,Yes,3083300.0,2324.0
+NSW-0270,2024,Doma,34.0,Male,Secondary,15.0,2.06,No,156.8,NO,1261.3,26.0,5.43,6.0,Absent,Yes,2645400.0,3078.0
+NSW-0419,2024,Doma,18.0,Male,Secondary,1.0,0.63,Yes,60.9,No,1134.4,27.7,6.27,1.0,Low,No,661100.0,2568.0
+NSW-0402,2023,Obi,59.0,Male,Secondary,36.0,2.79,No,104.4,No,1162.2,28.1,6.14,1.0,Moderate,No,1645800.0,1387.0
+NSW-0230,2022,Karu,62.0,Male,Primary,35.0,1.16,Yes,179.1,No,1145.4,27.6,6.73,2.0,Low,Y,2002100.0,3985.0
+NSW-0034,2023,Keffi,18.0,Female,Secondary,1.0,1.67,No,129.4,No,1438.2,27.3,6.38,3.0,Low,Yes,1164500.0,2130.0
+NSW-0433,2022,Keana,45.0,Female,Secondary,14.0,7.01,No,115.7,No,1137.9,25.9,,4.0,Moderate,No,7409200.0,2558.0
+NSW-0216,2022,Toto,58.0,Male,Primary,28.0,3.06,No,145.8,No,1187.7,27.6,6.94,1.0,Absent,Yes,2906100.0,2380.0
+NSW-0622,2024,Doma,31.0,Male,Secondary,1.0,1.96,No,127.0,Yes,890.4,26.3,6.48,3.0,Absent,Yes,3485800.0,3447.0
+NSW-0365,2023,doma,65.0,Female,Primary,37.0,4.45,Yes,46.0,No,839.3,29.3,5.96,0.0,Low,No,2872400.0,1567.0
+NSW-0360,2023,Karu,40.0,Female,No formal education,15.0,4.78,No,145.9,No,1219.2,26.0,6.15,0.0,Low,Yes,5357000.0,2418.0
+NSW-0271,2022,Keffi,46.0,Male,Secondary,22.0,0.29,No,197.7,No,1080.6,28.5,5.96,2.0,Low,No,319100.0,2504.0
+NSW-0610,2024,doma,42.0,Female,Secondary,15.0,1.42,Yes,191.5,No,1173.7,27.7,4.5,0.0,Moderate,No,627800.0,1163.0
+NSW-0070,2023,Keana,44.0,Female,Primary,23.0,1.97,NO,77.2,No,1495.2,28.6,6.71,3.0,Low,no,1214500.0,1217.0
+NSW-0515,2024,Akwanga,43.0,Male,Secondary,22.0,1.66,Y,160.2,Yes,1011.3,28.3,5.4,1.0,Moderate,Yes,2430300.0,3362.0
+NSW-0020,2023,Karu,29.0,Female,Tertiary,1.0,1.02,NO,71.4,No,945.2,26.3,5.51,2.0,Low,No,677400.0,1678.0
+NSW-0580,2022,Obi,57.0,Male,Secondary,25.0,1.88,No,109.0,No,1194.0,27.3,5.73,4.0,Absent,Yes,2089400.0,2360.0
+NSW-0501,2023,Kokona,56.0,Male,Secondary,36.0,2.68,No,133.2,No,1781.0,29.0,6.2,0.0,Moderate,No,290800.0,250.0
+NSW-0189,2023,Lafia,31.0,Male,Secondary,3.0,0.95,Yes,317.9,Y,1090.4,26.1,7.58,,High,No,1165100.0,2817.0
+NSW-0113,2024,Obi,30.0,Male,Tertiary,1.0,1.44,No,159.0,No,1118.1,28.8,6.84,1.0,Absent,No,1744300.0,2492.0
+NSW-0308,2022,Karu ,48.0,Male,Tertiary,19.0,3.4,No,88.4,Yes,1117.1,27.6,5.3,2.0,Moderate,Yes,3359200.0,2362.0
+NSW-0479,2024,Keffi,53.0,Female,Primary,33.0,1.09,Yes,138.7,No,1139.9,25.5,6.21,0.0,Low,No,1441900.0,2922.0
+NSW-0253,2023,Keffi ,55.0,Male,Secondary,27.0,0.98,No,168.5,No,901.4,28.4,5.37,0.0,Moderate,No,791700.0,1941.0
+NSW-0335,2022,Lafia,34.0,Female,Secondary,2.0,1.03,No,24.5,no,1020.7,29.1,6.61,5.0,Moderate,no,559200.0,1184.0
+NSW-0635,2022,Obi,34.0,Male,Secondary,6.0,1.24,No,55.8,No,911.9,27.9,6.81,3.0,Low,No,537400.0,1310.0
+NSW-0044,2023,Keffi,46.0,Male,Primary,23.0,2.38,No,95.2,No,1237.3,27.3,5.97,1.0,High,No,1274500.0,1467.0
+NSW-0626,2024,Kokona,30.0,Male,Primary,1.0,3.27,Yes,47.7,No,1025.2,27.4,5.45,0.0,Absent,N,1950500.0,1469.0
+NSW-0067,2022,Kokona ,32.0,Female,Secondary,6.0,1.15,No,63.3,No,1384.3,29.6,6.8,0.0,High,No,116300.0,250.0
+NSW-0162,2023,Karu,48.0,Female,Primary,18.0,0.95,No,95.5,No,1170.6,27.1,5.54,,Low,No,948800.0,2302.0
+NSW-0606,2022,Akwanga,20.0,Male,Primary,1.0,3.01,No,138.9,No,1338.0,27.3,5.23,2.0,Absent,Yes,2262200.0,1904.0
+NSW-0392,2024,Kokona,41.0,Male,Primary,9.0,1.03,Yes,176.1,No,953.6,27.3,4.72,1.0,Low,Yes,644900.0,1549.0
+NSW-0527,2024,Keffi,45.0,Male,Primary,22.0,5.34,Yes,150.2,Yes,1246.8,25.6,5.31,,Low,Yes,5098700.0,2307.0
+NSW-0140,2024,Keana,56.0,Female,Primary,26.0,0.91,Yes,251.5,No,1361.8,27.8,5.98,,Moderate,Yes,1206400.0,3050.0
+NSW-0076,2023,Keffi,58.0,Male,Primary,26.0,0.87,Yes,184.1,Yes,906.2,27.6,5.89,2.0,Moderate,Yes,969800.0,2485.0
+NSW-0080,2024,Keana,50.0,Female,No formal education,28.0,2.05,Yes,152.7,no,1255.3,26.1,5.55,,Moderate,Yes,2115600.0,2699.0
+NSW-0535,2023,Doma,54.0,Male,Secondary,23.0,3.74,Yes,111.9,No,1048.3,26.8,6.63,1.0,Absent,No,4805600.0,3455.0
+NSW-0059,2024,Nasarawa,63.0,Female,Primary,38.0,3.7,Yes,138.9,No,1221.3,27.6,6.83,0.0,High,No,3498800.0,2199.0
+NSW-0366,2022,toto,41.0,Male,Primary,18.0,5.65,No,140.3,No,1241.6,28.2,6.31,0.0,Moderate,No,5628000.0,2056.0
+NSW-0289,2024,Keana,25.0,Female,Primary,1.0,0.94,No,46.4,No,,26.8,7.19,1.0,Low,No,282700.0,658.0
+NSW-0634,2024,Keffi,42.0,Male,Primary,23.0,2.83,No,118.1,No,1170.4,29.1,6.4,3.0,Absent,Y,2470600.0,1989.0
+NSW-0074,2023,Lafia,49.0,Male,Primary,31.0,1.32,No,26.9,No,972.7,27.8,6.57,0.0,Moderate,No,874400.0,1684.0
+NSW-0260,2022,Lafia,48.0,Female,Secondary,20.0,0.56,No,118.0,No,1023.7,27.0,5.8,,Low,Yes,728200.0,2834.0
+NSW-0312,2023,Awe,43.0,Female,No formal education,19.0,3.38,No,72.3,No,863.8,28.9,6.66,0.0,Absent,No,2769000.0,1976.0
+NSW-0217,2022,Keana,,Male,Secondary,26.0,2.59,Yes,97.0,no,1166.1,25.8,5.79,2.0,High,No,1460600.0,1285.0
+NSW-0292,2023,Doma,43.0,Male,Primary,17.0,2.56,No,33.4,no,912.1,26.9,6.25,0.0,Absent,No,2315500.0,1797.0
+NSW-0227,2023,Obi,,Female,Primary,1.0,0.64,N,127.5,No,1098.9,27.7,5.85,1.0,Low,Yes,525900.0,1928.0
+NSW-0468,2024,Lafia,42.0,Male,Secondary,17.0,76.0,No,146.0,No,1188.9,28.0,5.54,,Low,No,591700.0,1808.0
+NSW-0050,2022,Keffi,54.0,Male,Secondary,28.0,1.39,YES,63.9,NO,1196.1,28.4,5.66,2.0,Low,No,1158200.0,1993.0
+NSW-0153,2023,Karu,18.0,Female,Primary,1.0,1.59,Yes,138.9,No,1182.3,28.3,5.53,4.0,Moderate,Yes,2167900.0,3400.0
+NSW-0482,2023,Obi,41.0,Male,Primary,9.0,2.73,No,95.7,No,1331.8,27.9,6.33,2.0,Low,Yes,3048200.0,2502.0
+NSW-0293,2022,Akwanga,66.0,Female,Tertiary,39.0,2.91,No,135.7,No,1094.0,28.5,5.43,3.0,High,Yes,2340100.0,1875.0
+NSW-0516,2022,Wamba,47.0,Male,Secondary,24.0,1.02,No,94.4,No,1064.2,27.0,6.52,2.0,Low,No,1128600.0,2522.0
+NSW-0246,2022,Keana,76.0,Male,Primary,48.0,2.69,No,70.8,No,1077.5,28.0,6.69,,Absent,No,2647600.0,2556.0
+NSW-0297,2024,Nasarawa,41.0,Male,Tertiary,22.0,4.0,No,104.9,Yes,1131.0,27.7,6.05,1.0,Moderate,No,4170200.0,2779.0
+NSW-0250,2023,Keana,71.0,Male,No formal education,48.0,1.04,No,109.2,N,1329.7,28.1,5.54,2.0,Absent,No,1176000.0,2496.0
+NSW-0352,2023,Akwanga,24.0,Male,Secondary,2.0,0.4,No,149.7,No,,29.1,6.33,2.0,High,Yes,368900.0,2160.0
+NSW-0362,2023,Nasarawa Eggon,47.0,Male,Tertiary,20.0,4.39,No,76.6,Yes,956.2,28.4,5.15,6.0,Absent,Yes,4856300.0,2310.0
+NSW-0414,2023,Awe,48.0,Male,No formal education,26.0,1.29,Yes,103.0,No,1142.2,25.4,6.62,1.0,Low,No,1180400.0,2192.0
+NSW-0464,2023,Doma,44.0,Female,Secondary,15.0,0.66,No,173.4,No,830.8,27.0,5.9,5.0,Absent,YES,845100.0,2831.0
+NSW-0048,2024,Akwanga,35.0,Male,Secondary,12.0,4.95,Yes,129.3,No,864.6,27.2,6.86,3.0,Absent,Yes,5356900.0,2558.0
+NSW-0117,2023,Obi,51.0,Male,Tertiary,31.0,1.25,No,191.1,No,1217.7,28.6,6.93,2.0,Low,Yes,1041300.0,1880.0
+NSW-0202,2022,Obi,31.0,Male,Tertiary,8.0,0.85,No,177.9,No,964.9,28.1,6.35,3.0,Absent,Yes,960900.0,2539.0
+NSW-0018,2022,Nassarawa,47.0,Male,Secondary,23.0,1.45,No,153.1,No,1175.7,28.2,5.97,3.0,Low,No,1306700.0,2247.0
+NSW-0625,2024,Wamba,24.0,Male,Primary,1.0,1.6,No,103.2,No,865.0,26.7,5.78,,High,NO,852300.0,1205.0
+NSW-0325,2024,Doma,41.0,Male,Primary,18.0,3.49,No,124.3,Yes,1629.4,25.7,4.9,,High,No,446900.0,341.0
+NSW-0026,2024,Nasarawa,39.0,Female,Secondary,13.0,2.02,Yes,71.0,No,1307.1,27.1,4.77,1.0,Moderate,No,779500.0,890.0
+NSW-0295,2022,Nassarawa,47.0,Male,Secondary,18.0,2.14,No,70.1,Yes,1087.4,26.5,6.31,2.0,Moderate,N,1714700.0,1958.0
+NSW-0418,2022,Toto,39.0,Male,Primary,20.0,300.0,Yes,96.2,No,1205.5,28.1,5.27,1.0,Low,No,2918800.0,2591.0
+NSW-0624,2023,Obi,40.0,Male,Primary,9.0,2.0,No,170.0,NO,1209.9,25.5,7.7,,Low,No,861000.0,1099.0
+NSW-0136,2024,Keana,41.0,Male,Tertiary,21.0,1.64,Yes,106.9,No,1192.1,27.2,5.23,4.0,Moderate,Yes,1602300.0,2384.0
+NSW-0609,2023,Kokona,48.0,Male,Primary,22.0,1.82,No,153.7,No,922.1,24.8,5.89,2.0,Moderate,No,1435600.0,1669.0
+NSW-0481,2024,Lafia,56.0,Male,Primary,27.0,3.51,no,165.2,No,1092.7,28.5,6.25,0.0,Absent,No,3482000.0,2441.0
+NSW-0028,2024,Nasarawa Eggon,48.0,Female,No formal education,20.0,3.04,No,209.2,No,1564.8,26.9,6.27,1.0,Low,No,3794000.0,3064.0
+NSW-0439,2022,Obi ,31.0,Male,No formal education,1.0,1.96,No,not recorded,NO,939.7,27.1,6.52,2.0,Moderate,yes,2812200.0,3322.0
+NSW-0029,2023,Awe,48.0,Male,Primary,29.0,3.47,No,113.8,No,1415.0,28.0,5.44,4.0,Absent,Yes,3162800.0,1988.0
+NSW-0436,2023,Toto ,47.0,Male,Secondary,25.0,0.77,Yes,111.4,YES,1324.0,27.1,5.76,2.0,Low,No,940800.0,3029.0
+NSW-0413,2022,Kokona,40.0,Female,Primary,12.0,2.42,No,79.8,No,1022.2,28.3,6.21,2.0,Low,No,1777900.0,1613.0
+NSW-0629,2024,Nasarawa,46.0,Male,Secondary,15.0,1.21,Yes,110.8,No,1330.8,26.8,6.63,0.0,Low,No,1625100.0,3021.0
+NSW-0542,2024,akwanga,42.0,Male,Secondary,14.0,1.19,Yes,151.1,No,921.2,27.9,6.8,2.0,Low,Yes,1358800.0,2709.0
+NSW-0334,2024,Wamba,27.0,Female,No formal education,1.0,3.49,No,161.4,Yes,1275.0,28.2,6.5,1.0,Moderate,No,3985300.0,2466.0
+NSW-0078,2023,toto,25.0,Female,Tertiary,1.0,2.47,Yes,29.3,No,1192.8,26.9,,0.0,Low,NO,2334000.0,2406.0
+NSW-0391,2023,Akwanga ,51.0,Male,Primary,22.0,4.04,Yes,90.2,No,1281.8,27.2,5.06,4.0,Absent,Yes,3448800.0,2154.0
+NSW-0258,2022,Kokona,40.0,Male,Secondary,12.0,0.36,Yes,37.8,No,1017.9,28.6,6.3,1.0,Absent,No,345700.0,2499.0
